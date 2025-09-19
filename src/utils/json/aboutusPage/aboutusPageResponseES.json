@@ -1,0 +1,267 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 38,
+      "key": "About.Main.Heading",
+      "value": "Atención Visual Premium",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 40,
+      "key": "About.Main.Description",
+      "value": "En Eye Center Boutique, estamos comprometidos a brindar atención visual premium con un enfoque centrado en el paciente. Como la principal boutique óptica de Puerto Rico, combinamos tecnología de vanguardia, una amplia selección de gafas y doctores comunitarios para ofrecer la experiencia de cuidado ocular más completa y conveniente.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 42,
+      "key": "About.OurCommitment.Heading",
+      "value": "Nuestro Compromiso",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 44,
+      "key": "About.OurCommitment.Description",
+      "value": "Nuestra misión es simple: todos merecen una atención visual excepcional. Por eso, aceptamos con orgullo todos los planes médicos, asegurando que los servicios de salud ocular de alta calidad sean accesibles para todos. Ya sea que necesite un examen ocular completo o simplemente esté buscando un nuevo par de gafas de sol, nuestros optometristas certificados brindarán una atención personalizada adaptada a sus necesidades.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 46,
+      "key": "About.OnSiteDigitalLabs.Heading",
+      "value": "Laboratorios Digitales en el Sitio",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 48,
+      "key": "About.OnSiteDigitalLabs.Description",
+      "value": "En Eye Center Boutique, estamos orgullosos de tener los laboratorios digitales más avanzados de Puerto Rico, justo dentro de nuestras oficinas. Esto significa que podemos hacer sus gafas rápidamente y con precisión, sin tener que enviarlas fuera. Nuestra tecnología nos permite crear todo tipo de lentes, incluyendo progresivos digitales, gafas de sol con prescripción y lentes con protección antirreflejo o contra la luz azul. Debido a que todo se hace internamente, podemos ofrecer servicios el mismo día o al día siguiente en muchos casos, algo que la mayoría de las ópticas no puede igualar.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 50,
+      "key": "About.EyewearForEveryStyle.Heading",
+      "value": "Gafas para Cada Estilo y Presupuesto",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 52,
+      "key": "About.EyewearForEveryStyle.Description",
+      "value": "Creemos que una gran visión nunca debe sacrificarse por un gran estilo. Con más de 1,000 monturas por ubicación y más de 60 marcas líderes de gafas, atendemos todos los presupuestos, estilos de vida y preferencias. Ya sea que esté buscando monturas de diseñador de alta moda de marcas como Prada, Cazal o Miu Miu; estilos deportivos como Oakley; o clásicos de todos los días como Ray-Ban, le garantizamos que encontrará el par perfecto.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 54,
+      "key": "About.MeetYourOptometrist.Heading",
+      "value": "Conozca a su Optometrista",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 56,
+      "key": "About.MeetYourOptometrist.Button",
+      "value": "Ver Todo",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 58,
+      "key": "About.FAQCard.Heading",
+      "value": "Visite nuestra página de Preguntas Frecuentes para obtener más información.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 60,
+      "key": "About.FAQCard.Button",
+      "value": "Ver Preguntas Frecuentes",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 304,
+      "key": "AboutUsLearnMore.Main.Heading1",
+      "value": "¿Listo para la próxima generación de gafas con IA?",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 306,
+      "key": "AboutUsLearnMore.Main.Description",
+      "value": "La colección Ray-Ban Meta combina lo último en tecnología portátil con el diseño auténtico de Ray-Ban, para mantenerte conectado dondequiera que vayas.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 308,
+      "key": "AboutUsLearnMore.MetaAI.Heading",
+      "value": "Meta IA",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 310,
+      "key": "AboutUsLearnMore.MetaAI.Description",
+      "value": "Usa tu voz para despertar tu creatividad, obtener información y controlar tus gafas simplemente diciendo \"Hey Meta\". Pide a Meta IA que aprenda algo nuevo, simplifique tareas diarias o traduzca idiomas mientras te desplazas. Aprende la historia de un monumento, traduce un letrero o consigue recetas basadas en lo que hay en tu refrigerador. También puede escanear códigos QR o tomar nota y recordar información para más tarde.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 312,
+      "key": "AboutUsLearnMore.Camera.Heading",
+      "value": "Cámara",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 314,
+      "key": "AboutUsLearnMore.Camera.Description",
+      "value": "Captura exactamente lo que ves y oyes con la nueva cámara ultra gran angular de 12 MP y el sistema de cinco micrófonos. Toma fotos de alta calidad y videos inmersivos y compártelos en Facebook e Instagram. Alterna entre la cámara de tu teléfono y la de las gafas cuando hagas videollamadas o transmisiones en vivo, para que todos puedan experimentar tu perspectiva única del mundo.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 316,
+      "key": "AboutUsLearnMore.Audio.Heading",
+      "value": "Audio",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 318,
+      "key": "AboutUsLearnMore.Audio.Description",
+      "value": "Cambia sin problemas entre tus pistas favoritas, llamadas y el entorno con altavoces discretos de oído abierto. Están diseñados a medida para ofrecer bajos extendidos y un volumen máximo alto para una experiencia auditiva rica, incluso en entornos ruidosos o ventosos. Todo es solo para tus oídos, gracias al audio direccional mejorado.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 320,
+      "key": "AboutUsLearnMore.Controls.Heading",
+      "value": "Controles",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 322,
+      "key": "AboutUsLearnMore.Controls.Description",
+      "value": "Desbloquea una variedad de posibilidades manos libres con comandos de voz: llama y envía mensajes, captura contenido y gestiona la configuración de medios con tu teléfono en el bolsillo. O activa las funciones con un solo toque utilizando el panel táctil hiperreactivo y el botón de captura.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 324,
+      "key": "AboutUsLearnMore.ChargingCase.Heading",
+      "value": "Estuche de Carga",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 326,
+      "key": "AboutUsLearnMore.ChargingCase.Description",
+      "value": "Hasta cuatro horas de duración de la batería, además de un estuche de carga elegante y portátil que proporciona hasta ocho cargas adicionales en movimiento, significa que puedes concentrarte en tu día sin interrupciones. El estuche delgado cabe en tu bolsillo trasero o bolso, mientras que la carga inteligente preserva y extiende la vida útil de tu batería.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 328,
+      "key": "AboutUsLearnMore.MetaViewApp.Heading",
+      "value": "Aplicación Meta View",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 330,
+      "key": "AboutUsLearnMore.MetaViewApp.Description",
+      "value": "Nuestra aplicación complementaria mejorada mejora la experiencia de tus gafas. Empareja múltiples gafas con tu teléfono y gestiona todo en un solo lugar. Realiza un recorrido interactivo y descubre funciones clave a través de una nueva pestaña de inicio. Agrega efectos especiales al contenido y compártelo fácilmente con amigos.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

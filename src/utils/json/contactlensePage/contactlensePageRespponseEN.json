@@ -1,0 +1,237 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 253,
+      "key": "ContactLenses.Main.Heading1",
+      "value": "Expert Contact Lens Fitting – Customized for Your Eyes",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 255,
+      "key": "ContactLenses.Section1.Heading",
+      "value": "Not a fan of glasses,but want to see your best?",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 257,
+      "key": "ContactLenses.Section1.Description",
+      "value": "Contact lenses may be the solution you’ve been looking for.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 259,
+      "key": "ContactLenses.Section1.Button",
+      "value": "Book Appointment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 261,
+      "key": "ContactLenses.TrustedBrands.Heading",
+      "value": "Trusted Brands for Every Vision Need",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 263,
+      "key": "ContactLenses.TrustedBrands.Description",
+      "value": "Our optometrist can find brands that cater to your specific needs.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 265,
+      "key": "ContactLenses.TrustedBrand.Heading2",
+      "value": "Trusted Brands",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 267,
+      "key": "ContactLenses.AppointmentCard.Heading",
+      "value": "Save More with Our Annual Supply Program",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 269,
+      "key": "ContactLenses.AppointmentCard.Description",
+      "value": "Get the most out of your contact lenses and save through our My Annual Supply contact lens program.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 271,
+      "key": "ContactLenses.AppointmentCard.Description2",
+      "value": "In addition to your annual supply of prescription contact lenses from an Eye Center Boutique office, you will also receive:",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 273,
+      "key": "ContactLenses.AppointmentCard.Point1",
+      "value": "Free pair of sunglasses with every My Annual Supply purchase",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 275,
+      "key": "ContactLenses.AppointmentCard.Point2",
+      "value": "30% off eyewear of your choosing",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 277,
+      "key": "ContactLenses.AppointmentCard.Point3",
+      "value": "Free shipping",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 279,
+      "key": "ContactLenses.AppointmentCard.Button",
+      "value": "Book Appointment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 281,
+      "key": "ContactLenses.LensOptions.Heading",
+      "value": "Over 50 Contact Lens Options to Customize Your fit",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 283,
+      "key": "ContactLenses.LensOptions.Daily",
+      "value": "Daily Contact Lenses: convenient, fresh lenses every day for maximum comfort and hygiene.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 285,
+      "key": "ContactLenses.LensOptions.BiWeeklyMonthly",
+      "value": "Bi-Weekly & Monthly Contact Lenses: Longer wear options for cost savings and convenience.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 287,
+      "key": "ContactLenses.LensOptions.Toric",
+      "value": "Toric Lenses: Designed to correct astigmatism with precise fit and comfort.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 289,
+      "key": "ContactLenses.LensOptions.Spherical",
+      "value": "Spherical Lenses: Corrects common vision issues like nearsightedness and farsightedness, offering clear and consistent vision.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 291,
+      "key": "ContactLenses.LensOptions.Multifocal",
+      "value": "Multifocal Lenses: Provides clear vision at all distances (near and far).",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 293,
+      "key": "ContactLenses.LensOptions.Colored",
+      "value": "Colored Lenses: Enhance or change your natural eye color while maintaining comfort.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 295,
+      "key": "ContactLenses.AppointmentCard.Heading",
+      "value": "Not sure which lenses are right for you?",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 297,
+      "key": "ContactLenses.AppointmentCard.Button",
+      "value": "Book Appointment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

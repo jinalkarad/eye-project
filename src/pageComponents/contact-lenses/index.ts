@@ -1,0 +1,1 @@
+export { default as ContactLensesPage } from './contact-lenses';

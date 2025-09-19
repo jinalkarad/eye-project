@@ -1,0 +1,30 @@
+@import "./_variable";
+@import "./_color";
+@import "./_common";
+@import "./_fonts";
+@import "./_utility";
+@import "./_brands";
+@import "./hero_banner";
+@import "./responsive";
+@import "./faq";
+@import "./eye_exam";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Avenir LT Std';
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+// .modal-content{
+//     overflow-y: auto;
+//     max-height: 85vh;
+// }
+.modal-content::-webkit-scrollbar {
+  display: none;
+}

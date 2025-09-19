@@ -1,0 +1,44 @@
+.faq_container {
+    .custom_accordian .accordion-item {
+        border: none;
+        border-bottom: 1px solid var(--Border, #E0E0E0);
+        padding: 24px 0;
+        background-color: transparent;
+    }
+    
+    .custom_accordian .accordion-item .accordion-button.collapsed {
+        border: none;
+        background: transparent;
+        padding: 0;
+        box-shadow: none;
+        color: #020817;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px; /* 109.091% */
+        letter-spacing: -0.22px;
+    }
+    
+    .custom_accordian .accordion-item .accordion-button {
+        border: none;
+        background: transparent;
+        padding: 0;
+        box-shadow: none;
+        color: #BF8327;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 24px; /* 109.091% */
+        letter-spacing: -0.22px;
+    }
+    
+    .custom_accordian .accordion-item .accordion-body {
+        padding: 14px 0px 4px;
+        color:  #020817;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 31px; /* 155% */
+        letter-spacing: -0.2px;
+    }
+}

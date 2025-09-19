@@ -1,0 +1,219 @@
+@use "@/styles/_variable.scss" as v;
+
+.headerContainer {
+    padding: 17px 40px;
+    // height: v.$header-size;
+    z-index: 11;
+    background-color: white;
+    position: sticky;
+    top: 0px;
+
+    // :global(.navbar-brand) {
+    //     padding: 0;
+    //     margin: 0;
+    //     padding: 8px 15px;
+        
+    //     img {
+    //         width: auto;
+    //         height: 28px;
+    //     }
+    // }
+
+    // :global(.navbar-toggler) {
+    //     border: none;
+    //     padding: 0;
+    //     &:focus {
+    //         box-shadow: none;
+    //     }
+    // }
+
+    // :global(.navbar-collapse) {
+    //     justify-content: center;
+    // }
+    .nav-item{
+        padding: 0px 25px;
+
+        @media (max-width:1699px) {
+            padding: 0px 10px;
+        }
+    }
+
+    .navLinks {
+       
+        align-items: center;
+        margin: 0;
+        padding: 0px !important;
+
+        @media (max-width:1699px) {
+            font-size: 16px;
+        }
+
+        @media (max-width: 991px) {
+            margin: 20px 0;
+            gap: 0;
+            text-align: left;
+        }
+    }
+
+    .navLink {
+        color: #666;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: normal;
+        text-decoration: none;
+        transition: color 0.3s ease;
+        padding: 0;
+
+        &:hover {
+            color: #BF8327;
+        }
+
+        &.active {
+            color: #BF8327;
+            font-weight: 500;
+        }
+    }
+
+    .searchWrapper {
+        margin-left: auto;
+    }
+    
+    @media screen and (max-width:1699px) {
+        padding: 25px 20px;
+    }
+    @media screen and (max-width: 991px) {
+        display: flex;
+        align-items: center;
+    }
+}
+
+.offCanvas {
+    width: 390px !important;
+    background: white;
+
+    :global(.offcanvas-header) {
+        padding: 20px;
+        position: relative;
+        // border-bottom: 1px solid #eee;
+
+        @media (max-width: 1024px) {
+
+            img {
+                height: 24px ;
+                width: auto;
+            }
+            &::after {
+                position: absolute;
+                content: '';
+                width: calc(100% - 48px);
+                height: 3px;
+                background-color: #F4DC60;
+
+                bottom: 0;
+            }
+
+            }
+
+        .closeButton {
+            background: none;
+            border: none;
+            font-size: 24px;
+            padding: 0;
+        }
+    }
+    
+
+    :global(.offcanvas-body) {
+        align-items: center;
+        padding: 20px 24px;
+        // .nav-item{
+        //     padding: 0px 25px;
+        // }
+
+        .navLinks {
+            padding: 20px;
+            margin: 0;
+
+           
+
+            .navLink {
+                display: block;
+                padding: 0 25px;
+                border-bottom: 1px solid #eee;
+                color: rgba(0, 0, 0, 0.5);
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: normal;
+
+                &:last-child {
+                    border-bottom: none;
+                }
+
+                &:hover {
+                    color: #BF8327;
+                }
+
+                &.active {
+                    color: #BF8327;
+                }
+
+                @media (max-width:1699px) {
+                    padding: 0 18px;
+                    font-size: 16px;
+                }
+
+                @media (max-width: 1024px) {
+                    padding: 15px 0;
+                    font-size: 18px;
+                }
+            }
+
+            @media screen and (max-width:1024px) {
+                padding: 0;
+            }
+            
+        }
+
+        .searchWrapper {
+            max-width: 100%;
+            min-width: 196px;
+
+            @media (max-width: 576px) {
+                min-width: auto;
+            }
+        }
+    }
+
+    @media (max-width: 576px) {
+        width: 350px !important;
+    }
+
+    @media (max-width: 350px) {
+        width: 100% !important;
+    }
+}
+
+
+
+
+@media (max-width: 1499px) {
+    .headerContainer {
+        .searchWrapper {
+            :global(.form-control) {
+                width: 250px;
+            }
+        }
+    }
+}
+
+@media (max-width: 1199px) {
+    .headerContainer {
+        .navLinks {
+            gap: 20px;
+        }
+        .navLink {
+            font-size: 14px;
+        }
+    }
+}

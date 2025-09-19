@@ -1,0 +1,87 @@
+.contactLensesContainer {
+    .heroBanner {
+        background-image: url('../../assets/images/lense_selection_banner-1.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 474px;
+         @media (max-width: 991px) {
+            height: 400px;
+        }
+
+        @media (max-width: 480px) {
+            height: 240px;
+            background: url('../../assets/images/contact_lenses_responsive_banner.png');
+            background-size: cover;
+        }
+    }
+
+    .programContainer {
+        background: linear-gradient(90deg, #bf8327 -10.45%, #f4dc60 52.24%, #bf8327 118.81%);
+        width: 100%;
+        border-radius: 10px;
+
+        .programContent {
+            display: flex;
+            align-items: center;
+            padding: 30px;
+            gap: 36px;
+
+            .image {
+                border-radius: 10px;
+            }
+
+            .right-content {
+                ul {
+                    li {
+                        font-weight: 600;
+                        font-size: 20px;
+                    }
+                }
+
+                @media (max-width:1025px) {
+                    width: 100%;
+                }
+
+                @media screen and (max-width: 991px) {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    ul {
+                    li {
+                        font-weight: 600;
+                        font-size: 18px;
+                    }
+                }
+                }
+            }
+
+            @media screen and (max-width: 991px) {
+                flex-direction: column;
+            }
+            @media screen and (max-width: 550px) {
+                padding: 30px 18px;
+            }
+        }
+    }
+
+    // new design
+    .customizeContent {
+        display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            .check_list li{
+            font-size: 20px;
+        }
+
+            @media screen and (max-width: 991px) {
+                flex-direction: column !important;
+                .imgContentDiv{
+                    width: 100%;
+                }
+                .check_list li{
+                    font-size: 18px;
+                }
+            }
+        }
+    }

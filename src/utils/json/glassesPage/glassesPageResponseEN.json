@@ -1,0 +1,197 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 331,
+      "key": "Glasses.Main.Heading",
+      "value": "Glasses",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 333,
+      "key": "Glasses.Main.Description",
+      "value": "See the world clearly with Eye Center Boutiques wide selection of frames for men and women.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 335,
+      "key": "Glasses.BestSellers.Heading",
+      "value": "Our Best Sellers",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 337,
+      "key": "Glasses.BestSellers.Subheading",
+      "value": "Frames you Love, Quality you Trust",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 339,
+      "key": "Glasses.AIGlasses.Heading",
+      "value": "Ready for the next generation of AI glasses?",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 341,
+      "key": "Glasses.AIGlasses.Description",
+      "value": "The Ray-Ban Meta collection combines the latest in wearable tech with authentic Ray-Ban design, to keep you connected wherever you go.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 343,
+      "key": "Glasses.AIGlasses.Button",
+      "value": "Learn More",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 345,
+      "key": "Glasses.FitProcess.Heading",
+      "value": "The 4 Step Process for The Perfect Fit",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 347,
+      "key": "Glasses.FitProcess.Description",
+      "value": "At Eye Center Boutique, we don’t just sell glasses—we craft them to fit you perfectly. Our eye care specialists take the time to understand your unique vision needs and lifestyle, ensuring that every pair of glasses delivers both comfort and clarity. Here’s how we make sure your glasses are tailored just for you:",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 349,
+      "key": "Glasses.FitProcess.Step1.Heading",
+      "value": "Personalized Lens Selection",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 351,
+      "key": "Glasses.FitProcess.Step1.Description",
+      "value": "We carefully select the right lenses and recommend enhancements based on your prescription and lifestyle. Whether you need blue light protection, progressive lenses, or something tailored for an active lifestyle.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 353,
+      "key": "Glasses.FitProcess.Step2.Heading",
+      "value": "Expert Frame Recommendations",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 355,
+      "key": "Glasses.FitProcess.Step2.Description",
+      "value": "Our specialists recommend frames that not only complement your face shape but also work seamlessly with your lens choice. Style meets functionality for a look and feel that’s uniquely yours.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 357,
+      "key": "Glasses.FitProcess.Step3.Heading",
+      "value": "Precise Frame and Lens Fit",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 359,
+      "key": "Glasses.FitProcess.Step3.Description",
+      "value": "We ensure that the frame and lens size are properly aligned with your face size, guaranteeing optimal comfort and balanced vision.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 361,
+      "key": "Glasses.FitProcess.Step4.Heading",
+      "value": "Comfortable Temple Fit",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 363,
+      "key": "Glasses.FitProcess.Step4.Description",
+      "value": "The right temple length is key to all-day comfort. We adjust the fit to sit securely and comfortably, so you can wear your glasses with ease from morning to night.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 365,
+      "key": "Glasses.Quiz.Heading",
+      "value": "Try the Face Shape Quiz",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 367,
+      "key": "Glasses.Quiz.Description",
+      "value": "Find frames that fit your face and style. Answer the prompts to receive your personalized results!",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

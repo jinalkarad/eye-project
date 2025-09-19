@@ -1,0 +1,197 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 332,
+      "key": "Glasses.Main.Heading",
+      "value": "Gafas",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 334,
+      "key": "Glasses.Main.Description",
+      "value": "Vea el mundo con claridad con la amplia selección de monturas para hombres y mujeres de Eye Center Boutique.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 336,
+      "key": "Glasses.BestSellers.Heading",
+      "value": "Nuestros Más Vendidos",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 338,
+      "key": "Glasses.BestSellers.Subheading",
+      "value": "Monturas que amas, calidad en la que confías",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 340,
+      "key": "Glasses.AIGlasses.Heading",
+      "value": "¿Listo para la próxima generación de gafas con IA?",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 342,
+      "key": "Glasses.AIGlasses.Description",
+      "value": "La colección Ray-Ban Meta combina lo último en tecnología portátil con el diseño auténtico de Ray-Ban, para mantenerte conectado dondequiera que vayas.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 344,
+      "key": "Glasses.AIGlasses.Button",
+      "value": "Aprende Más",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 346,
+      "key": "Glasses.FitProcess.Heading",
+      "value": "El proceso de 4 pasos para el ajuste perfecto",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 348,
+      "key": "Glasses.FitProcess.Description",
+      "value": "En Eye Center Boutique, no solo vendemos gafas, las adaptamos para que te queden perfectamente. Nuestros especialistas en cuidado ocular se toman el tiempo para comprender tus necesidades visuales y estilo de vida únicos, asegurando que cada par de gafas ofrezca tanto comodidad como claridad. Así es como nos aseguramos de que tus gafas estén hechas a medida para ti:",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 350,
+      "key": "Glasses.FitProcess.Step1.Heading",
+      "value": "Selección Personalizada de Lentes",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 352,
+      "key": "Glasses.FitProcess.Step1.Description",
+      "value": "Seleccionamos cuidadosamente los lentes adecuados y recomendamos mejoras basadas en tu prescripción y estilo de vida. Ya sea que necesites protección contra la luz azul, lentes progresivos o algo adaptado para un estilo de vida activo.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 354,
+      "key": "Glasses.FitProcess.Step2.Heading",
+      "value": "Recomendaciones de Montura por Expertos",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 356,
+      "key": "Glasses.FitProcess.Step2.Description",
+      "value": "Nuestros especialistas recomiendan monturas que no solo complementan la forma de tu rostro, sino que también funcionan perfectamente con tu elección de lentes. El estilo se une a la funcionalidad para una apariencia y sensación que son exclusivamente tuyas.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 358,
+      "key": "Glasses.FitProcess.Step3.Heading",
+      "value": "Ajuste Preciso de Montura y Lentes",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 360,
+      "key": "Glasses.FitProcess.Step3.Description",
+      "value": "Nos aseguramos de que el tamaño de la montura y los lentes estén alineados correctamente con el tamaño de tu rostro, garantizando una comodidad óptima y una visión equilibrada.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 362,
+      "key": "Glasses.FitProcess.Step4.Heading",
+      "value": "Ajuste Cómodo de las Patillas",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 364,
+      "key": "Glasses.FitProcess.Step4.Description",
+      "value": "La longitud adecuada de las patillas es clave para una comodidad durante todo el día. Ajustamos el ajuste para que se sienten de manera segura y cómoda, para que puedas usar tus gafas con facilidad desde la mañana hasta la noche.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 366,
+      "key": "Glasses.Quiz.Heading",
+      "value": "Prueba el Cuestionario de Forma de Rostro",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 368,
+      "key": "Glasses.Quiz.Description",
+      "value": "Encuentra monturas que se ajusten a tu rostro y estilo. ¡Responde las preguntas para recibir tus resultados personalizados!",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

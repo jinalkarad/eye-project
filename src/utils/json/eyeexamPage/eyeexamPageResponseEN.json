@@ -1,0 +1,227 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 423,
+      "key": "EyeExam.Main.Heading",
+      "value": "Eye Exams",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 425,
+      "key": "EyeExam.Main.Description",
+      "value": "Our locally based optometrists are committed to providing accessible, high-quality eye care to our community. Our skilled optometrists offer a full range of eye exams, from routine checkups to specialized diagnostics, to keep your vision at its best.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 427,
+      "key": "EyeExam.Main.Button",
+      "value": "Book Appointment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 429,
+      "key": "EyeExam.TypesOfExams.Heading",
+      "value": "Types of Exams we Offer",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 431,
+      "key": "EyeExam.TypesOfExams.Type1.Heading",
+      "value": "Annual Vision Exam",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 433,
+      "key": "EyeExam.TypesOfExams.Type1.Description",
+      "value": "Regular eye exams are essential for maintaining clear vision and overall eye health. We assess your eyesight, check for prescription changes, and ensure your eyes are functioning at their best.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 435,
+      "key": "EyeExam.TypesOfExams.Type2.Heading",
+      "value": "Diagnostic Eye Exams",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 437,
+      "key": "EyeExam.TypesOfExams.Type2.Description",
+      "value": "We offer specialized exams and health reports for your primary doctor for: Glaucoma, Macular degeneration, Diabetic eye disease, High blood pressure-related eye concerns.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 439,
+      "key": "EyeExam.TypesOfExams.Type3.Heading",
+      "value": "Contact Lens Exam & Fitting",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 441,
+      "key": "EyeExam.TypesOfExams.Type3.Description",
+      "value": "Thinking of switching to contact lenses? We provide comprehensive contact lens exams to find the best fit for your eyes and lifestyle. Our doctors guide you through the selection, fitting, and proper care of your lenses.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 443,
+      "key": "EyeExam.TypesOfExams.Type4.Heading",
+      "value": "Driver’s License Vision Exam",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 445,
+      "key": "EyeExam.TypesOfExams.Type4.Description",
+      "value": "Need an eye exam for your driver’s license renewal? We provide quick and easy visual acuity tests to ensure you meet the necessary requirements for safe driving in Puerto Rico.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 447,
+      "key": "EyeExam.WhyRoutineExamsMatter.Heading",
+      "value": "Why Eye Exams Matter",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 449,
+      "key": "EyeExam.WhyRoutineExamsMatter.Paragraph1",
+      "value": "Your eye health is closely linked to your overall wellness. Regular check-ups can help detect diabetes, hypertension, and other systemic conditions that may impact your vision. Some symptoms that may indicate the need for an exam include:",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 451,
+      "key": "EyeExam.WhyRoutineExamsMatter.Paragraph2",
+      "value": "Even if you’re not experiencing any symptoms, an annual eye exam is essential to maintaining optimal eye health and preventing future vision problems.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 453,
+      "key": "EyeExam.WhyRoutineExamsMatter.Paragraph3",
+      "value": "Our team of experienced optometrists are ready to assist you with all your vision needs. Schedule your appointment online or call your nearest location today!",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 455,
+      "key": "EyeExam.Symptom.Headaches",
+      "value": "Headaches",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 457,
+      "key": "EyeExam.Symptom.BlurredOrDoubleVision",
+      "value": "Blurred or double vision",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 459,
+      "key": "EyeExam.Symptom.EyePain",
+      "value": "Eye pain or discomfort",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 461,
+      "key": "EyeExam.Symptom.Redness",
+      "value": "Redness",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 463,
+      "key": "EyeExam.Symptom.ItchingDryness",
+      "value": "Itching, or dryness",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 465,
+      "key": "EyeExam.Symptom.HalosOrFloaters",
+      "value": "Seeing halos or floaters",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

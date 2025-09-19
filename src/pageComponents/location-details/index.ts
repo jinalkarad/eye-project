@@ -1,0 +1,1 @@
+export { default as LocationDetailsPage } from './location-details';

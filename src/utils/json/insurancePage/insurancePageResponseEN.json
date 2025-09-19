@@ -1,0 +1,227 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 25,
+      "key": "Homepage.Insurance.Heading",
+      "value": "We proudly welcome a wide range of vision insurance plans to make your experience seamless:",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 27,
+      "key": "Homepage.Insurance.Description",
+      "value": "If your insurance provider isn’t listed, contact us! Our team can verify your benefits and explore available options for you.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 173,
+      "key": "Insurance.Main.Heading1",
+      "value": "We Welcome all Insurances",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 175,
+      "key": "Insurance.Main.Description",
+      "value": "We believe that quality eye care should be accessible to everyone. That’s why we partner with Puerto Rico’s top vision insurance providers to help you get the most out of your benefits.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 177,
+      "key": "Insurance.Main.Button",
+      "value": "Schedule an Appointment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 179,
+      "key": "Insurance.InsuranceProvider.Heading",
+      "value": "We proudly welcome a wide range of vision insurance plans to make your experience seamless:",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 181,
+      "key": "Insurance.InsuranceProvider.Note",
+      "value": "If your insurance provider is not listed, please contact us.Our team can verify your benefits and explore available options for you. ",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 183,
+      "key": "Insurance.MaximizeBenefits.Heading",
+      "value": " Understand What’s Covered - We’ve Got You",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 185,
+      "key": "Insurance.MaximizeBenefits.Card1.Heading",
+      "value": "Guidance",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 187,
+      "key": "Insurance.MaximizeBenefits.Card1.Description",
+      "value": "Our associates are well-versed in Puerto Rico’s insurance landscape and will help you understand what your plan covers.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 189,
+      "key": "Insurance.MaximizeBenefits.Card2.Heading",
+      "value": "Benefits",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 191,
+      "key": "Insurance.MaximizeBenefits.Card2.Description",
+      "value": "We ensure you make the most of your vision benefits before they expire, helping you get your eye exam, glasses, or contact lenses.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 193,
+      "key": "Insurance.MaximizeBenefits.Card3.Heading",
+      "value": "Payments",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 195,
+      "key": "Insurance.MaximizeBenefits.Card3.Description",
+      "value": "If your plan doesn’t cover everything, we offer affordable pricing and special discounts on eyewear and lenses.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 197,
+      "key": "Insurance.UnderstandCoverage.Heading",
+      "value": "Not Fully Covered? We Have Solutions!",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 199,
+      "key": "Insurance.UnderstandCoverage.Bullet1",
+      "value": "Need a new pair of glasses but don’t have frame benefits this year? We offer affordable eyewear options to fit your budget.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 201,
+      "key": "Insurance.UnderstandCoverage.Bullet2",
+      "value": "Did you know your vision benefits reset every year? ",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 203,
+      "key": "Insurance.UnderstandCoverage.Bullet3",
+      "value": "Unsure what’s included in your coverage? Our team will review your benefits and make sure you get everything you’re entitled to.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 205,
+      "key": "Insurance.AppointmentCard.Heading",
+      "value": "Schedule Your Appointment Today",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 207,
+      "key": "Insurance.AppointmentCard.Description",
+      "value": "Your vision is our priority. Let us help you navigate your insurance benefits and find the perfect eyewear solution for you.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 209,
+      "key": "Insurance.AppointmentCard.Button1",
+      "value": "Call us today",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 211,
+      "key": "Insurance.AppointmentCard.Button2",
+      "value": "Book Appointment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

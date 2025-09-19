@@ -1,0 +1,227 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 46,
+      "key": "About.OnSiteDigitalLabs.Heading",
+      "value": "Laboratorios Digitales en el Sitio",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 48,
+      "key": "About.OnSiteDigitalLabs.Description",
+      "value": "En Eye Center Boutique, estamos orgullosos de tener los laboratorios digitales más avanzados de Puerto Rico, justo dentro de nuestras oficinas. Esto significa que podemos hacer sus gafas rápidamente y con precisión, sin tener que enviarlas fuera. Nuestra tecnología nos permite crear todo tipo de lentes, incluyendo progresivos digitales, gafas de sol con prescripción y lentes con protección antirreflejo o contra la luz azul. Debido a que todo se hace internamente, podemos ofrecer servicios el mismo día o al día siguiente en muchos casos, algo que la mayoría de las ópticas no puede igualar.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 214,
+      "key": "DigitalLabs.Main.Heading1",
+      "value": "Lentes de Precisión – Hechos Solo para Ti",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 216,
+      "key": "DigitalLabs.Main.Description",
+      "value": "Lentes digitales hechos a medida, diseñados para claridad y comodidad.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 218,
+      "key": "DigitalLabs.Section1.Heading",
+      "value": "Ve la Diferencia con Nuestra Tecnología de Lentes Digitales de Última Generación",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 220,
+      "key": "DigitalLabs.MadeInOurLabs.Heading",
+      "value": "Lentes rápidos y de alta calidad, fabricados directamente en nuestros laboratorios",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 222,
+      "key": "DigitalLabs.MadeInOurLabs.Description",
+      "value": "En Eye Center Boutique, cada ubicación cuenta con su propio laboratorio digital interno, por lo que sus lentes se fabrican aquí mismo, sin demoras. Nuestra tecnología avanzada nos permite crear lentes con receta de forma rápida y precisa, con un control de calidad riguroso. Los lentes de visión sencilla pueden estar listos en tan solo una hora, y la mayoría de los otros lentes están disponibles el mismo día. Esto significa que usted recibe un servicio rápido, calidad excepcional y sin esperas.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 224,
+      "key": "DigitalLabs.CustomLenses.Heading",
+      "value": "Vea la diferencia – Lentes digitales personalizados",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 226,
+      "key": "DigitalLabs.CustomLenses.Description",
+      "value": "A diferencia de los lentes tradicionales que ofrecen un solo punto de enfoque, nuestros lentes digitales están fabricados con tecnología avanzada para proporcionar múltiples puntos focales, ofreciéndole una visión más nítida y cómoda a todas las distancias. Cada par se personaliza según su receta exacta y sus hábitos visuales, haciendo que su visión diaria se sienta más natural y sin esfuerzo.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 228,
+      "key": "DigitalLabs.LensEnhancement.Heading",
+      "value": "Mejoras en los lentes para un rendimiento máximo",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 230,
+      "key": "DigitalLabs.LensEnhancement.Card1.Heading",
+      "value": "Resistentes a los arañazos con protección UV",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 232,
+      "key": "DigitalLabs.LensEnhancement.Card1.Point1",
+      "value": " La protección UV incorporada protege sus ojos de la exposición dañina al sol",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 234,
+      "key": "DigitalLabs.LensEnhancement.Card1.Point2",
+      "value": "Cada lente cuenta con un recubrimiento resistente a los arañazos para minimizar el desgaste.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 236,
+      "key": "DigitalLabs.LensEnhancement.Card2.Heading",
+      "value": "Tratamiento Anti-Reflejo",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 238,
+      "key": "DigitalLabs.LensEnhancement.Card2.Point1",
+      "value": "Elimina los reflejos y deslumbramientos no deseados.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 240,
+      "key": "DigitalLabs.LensEnhancement.Card2.Point2",
+      "value": "Mejora la transmisión de luz en un 99%, reduciendo la fatiga ocular.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 242,
+      "key": "DigitalLabs.LensEnhancement.Card2.Point3",
+      "value": "Acabado hidrofóbico y oleofóbico que repele agua, huellas dactilares, manchas y aceites.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 244,
+      "key": "DigitalLabs.LensEnhancement.Card3.Heading",
+      "value": "Opciones de Gafas de Sol",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 246,
+      "key": "DigitalLabs.LensEnhancement.Card3.Point1",
+      "value": "Recubrimiento espejado disponible en 8 colores que refleja los deslumbramientos y protege sus ojos de los rayos UV.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 248,
+      "key": "DigitalLabs.LensEnhancement.Card3.Point2",
+      "value": "Lentes polarizados que bloquean el resplandor intenso, mejorando la visibilidad y reduciendo la fatiga ocular.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 250,
+      "key": "DigitalLabs.AppointmentCard.Heading",
+      "value": "Vea la diferencia: Experimente lentes personalizados hoy mismo",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 252,
+      "key": "DigitalLabs.AppointmentCard.Heading",
+      "value": "Agende una cita",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

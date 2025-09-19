@@ -1,0 +1,277 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 369,
+      "key": "EyeWearLenses.Main.Heading",
+      "value": "Clear Vision Starts with Selecting the Right Lens",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 371,
+      "key": "EyeWearLenses.Main.Description",
+      "value": "Lenses are the heart of your eyewear. With our premium lens materials and enhancements, we ensure you experience maximum clarity, comfort, and protection every day.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 373,
+      "key": "EyeWearLenses.Materials.Heading",
+      "value": "Choosing the Right Lens Material",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 375,
+      "key": "EyeWearLenses.Materials.Polycarbonate.Heading",
+      "value": "Polycarbonate Lenses",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 377,
+      "key": "EyeWearLenses.Materials.Polycarbonate.Feature1",
+      "value": "Ultra-lightweight for all day comfort",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 379,
+      "key": "EyeWearLenses.Materials.Polycarbonate.Feature2",
+      "value": "Superior impact resistance for active lifestyles",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 381,
+      "key": "EyeWearLenses.Materials.Polycarbonate.Feature3",
+      "value": "Blocks 100% of harmful UV rays",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 383,
+      "key": "EyeWearLenses.Materials.HighIndex.Heading",
+      "value": "High Index Lenses",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 385,
+      "key": "EyeWearLenses.Materials.HighIndex.Feature1",
+      "value": "Reduces lens thickness for a sleek, refined look",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 387,
+      "key": "EyeWearLenses.Materials.HighIndex.Feature2",
+      "value": "Designed for high-powered prescriptions",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 389,
+      "key": "EyeWearLenses.Materials.HighIndex.Feature3",
+      "value": "Great fit for most frames",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 391,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Heading",
+      "value": "Light-Adaptive Lenses",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 393,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Feature1",
+      "value": "Darken in sunlight, clear indoors. UV protection",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 395,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Feature2",
+      "value": "Seamlessly adapt to changing light conditions",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 397,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Feature3",
+      "value": "Perfect for outdoor enthusiasts and people who spend time driving",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 399,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Feature4",
+      "value": "Available in more than 8+ stylish colors to match your look",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 401,
+      "key": "EyeWearLenses.Enhancements.Heading",
+      "value": "Lens Enhancements for Maximum Performance",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 403,
+      "key": "EyeWearLenses.Enhancements.ScratchUV.Heading",
+      "value": "Scratch Resistant with UV Protection",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 405,
+      "key": "EyeWearLenses.Enhancements.ScratchUV.Feature1",
+      "value": "Built-in UV protection shields your eyes from harmful sun exposure",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 407,
+      "key": "EyeWearLenses.Enhancements.ScratchUV.Feature2",
+      "value": "Every lens comes with a scratch-resistant coating to minimize wear and tear.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 409,
+      "key": "EyeWearLenses.Enhancements.AntiReflective.Heading",
+      "value": "Anti-Reflective Treatment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 411,
+      "key": "EyeWearLenses.Enhancements.AntiReflective.Feature1",
+      "value": "Eliminates unwanted glare and reflections.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 413,
+      "key": "EyeWearLenses.Enhancements.AntiReflective.Feature2",
+      "value": "Enhances light transmission by 99%, reducing eye strain.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 415,
+      "key": "EyeWearLenses.Enhancements.AntiReflective.Feature3",
+      "value": "Hydrophobic & Oleophobic Finish repels water, fingerprints, smudges, and oils.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 417,
+      "key": "EyeWearLenses.Enhancements.SunglassOptions.Heading",
+      "value": "Sunglass Options",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 419,
+      "key": "EyeWearLenses.Enhancements.SunglassOptions.Feature1",
+      "value": "Mirror coating available in 8 colors that reflects glares and protects your eyes from UV rays.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 421,
+      "key": "EyeWearLenses.Enhancements.SunglassOptions.Feature2",
+      "value": "Polarized lenses block harsh glare, enhancing visibility and reducing eye strain.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

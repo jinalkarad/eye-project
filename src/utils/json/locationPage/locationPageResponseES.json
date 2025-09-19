@@ -1,0 +1,27 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 300,
+      "key": "Locations.Main.Heading1",
+      "value": "Nuestras Oficinas",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 302,
+      "key": "Locations.Main.Description",
+      "value": "La atención visual excepcional comienza aquí. Reserva una cita en tu oficina más cercana.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

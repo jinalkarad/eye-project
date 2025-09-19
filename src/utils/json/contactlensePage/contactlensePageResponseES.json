@@ -1,0 +1,237 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 254,
+      "key": "ContactLenses.Main.Heading1",
+      "value": "Adaptación Experta de Lentes de Contacto – Personalizada para Tus Ojos",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 256,
+      "key": "ContactLenses.Section1.Heading",
+      "value": "¿No es fanático de las gafas, pero quiere ver lo mejor posible?",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 258,
+      "key": "ContactLenses.Section1.Description",
+      "value": "Los lentes de contacto pueden ser la solución que ha estado buscando.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 260,
+      "key": "ContactLenses.Section1.Button",
+      "value": "Reserve su cita",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 262,
+      "key": "ContactLenses.TrustedBrands.Heading",
+      "value": "Marcas de confianza para cada necesidad visual",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 264,
+      "key": "ContactLenses.TrustedBrands.Description",
+      "value": "Nuestro optometrista puede encontrar marcas que se adapten a sus necesidades específicas.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 266,
+      "key": "ContactLenses.TrustedBrand.Heading2",
+      "value": "Marcas de confianza",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 268,
+      "key": "ContactLenses.AppointmentCard.Heading",
+      "value": "Ahorre más con nuestro programa de suministro anual",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 270,
+      "key": "ContactLenses.AppointmentCard.Description",
+      "value": "Aproveche al máximo sus lentes de contacto y ahorre con nuestro programa My Annual Supply.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 272,
+      "key": "ContactLenses.AppointmentCard.Description2",
+      "value": "Además de su suministro anual de lentes de contacto con receta de una oficina de Eye Center Boutique, también recibirá:",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 274,
+      "key": "ContactLenses.AppointmentCard.Point1",
+      "value": "Un par de gafas de sol gratis con cada compra de My Annual Supply",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 276,
+      "key": "ContactLenses.AppointmentCard.Point2",
+      "value": "30 % de descuento en las gafas que elija",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 278,
+      "key": "ContactLenses.AppointmentCard.Point3",
+      "value": "Envío gratis",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 280,
+      "key": "ContactLenses.AppointmentCard.Button",
+      "value": "Reserve su cita.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 282,
+      "key": "ContactLenses.LensOptions.Heading",
+      "value": "Más de 50 Opciones de Lentes de Contacto para Personalizar Tu Ajuste",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 284,
+      "key": "ContactLenses.LensOptions.Daily",
+      "value": "Lentes de Contacto Diarios: lentes frescos y convenientes cada día para máxima comodidad e higiene.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 286,
+      "key": "ContactLenses.LensOptions.BiWeeklyMonthly",
+      "value": "Lentes de Contacto Quincenales y Mensuales: opciones de uso prolongado para ahorro y conveniencia.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 288,
+      "key": "ContactLenses.LensOptions.Toric",
+      "value": "Lentes Tóricos: Diseñados para corregir el astigmatismo con ajuste y comodidad precisos.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 290,
+      "key": "ContactLenses.LensOptions.Spherical",
+      "value": "Lentes Esféricos: Corrigen problemas visuales comunes como miopía e hipermetropía, ofreciendo visión clara y consistente.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 292,
+      "key": "ContactLenses.LensOptions.Multifocal",
+      "value": "Lentes Multifocales: Proporcionan visión clara a todas las distancias (cerca y lejos).",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 294,
+      "key": "ContactLenses.LensOptions.Colored",
+      "value": "Lentes de Color: Mejoran o cambian el color natural de tus ojos manteniendo la comodidad.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 296,
+      "key": "ContactLenses.AppointmentCard.Heading",
+      "value": "¿No estás seguro de qué lentes son adecuados para ti?",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 298,
+      "key": "ContactLenses.AppointmentCard.Button",
+      "value": "Reservar Cita",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

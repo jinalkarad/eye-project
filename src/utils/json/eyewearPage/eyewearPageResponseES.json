@@ -1,0 +1,857 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 50,
+      "key": "About.EyewearForEveryStyle.Heading",
+      "value": "Gafas para Cada Estilo y Presupuesto",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 52,
+      "key": "About.EyewearForEveryStyle.Description",
+      "value": "Creemos que una gran visión nunca debe sacrificarse por un gran estilo. Con más de 1,000 monturas por ubicación y más de 60 marcas líderes de gafas, atendemos todos los presupuestos, estilos de vida y preferencias. Ya sea que esté buscando monturas de diseñador de alta moda de marcas como Prada, Cazal o Miu Miu; estilos deportivos como Oakley; o clásicos de todos los días como Ray-Ban, le garantizamos que encontrará el par perfecto.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 62,
+      "key": "Eyewear.Main.Heading1",
+      "value": "Las Marcas que Amas",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 64,
+      "key": "Eyewear.Main.Heading2",
+      "value": "Plan de Garantía Diamante",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 66,
+      "key": "Eyewear.Main.Heading3",
+      "value": "Programa Anual de Suministro ECB",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 68,
+      "key": "Eyewear.Services.Heading",
+      "value": "Nuestros Servicios",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 70,
+      "key": "Eyewear.Services.SubHeading1",
+      "value": "Gafas",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 72,
+      "key": "Eyewear.Services.Description1",
+      "value": "Vea el mundo con claridad y estilo con la inigualable selección de más de 900 monturas en cada ubicación de Eye Center Boutique. Desde estilos audaces y modernos hasta clásicos y minimalistas, tenemos opciones para cada personalidad y presupuesto. Elija entre marcas de renombre como Ray-Ban, Prada, Oakley, Lacoste y más—porque una gran visión siempre debe ir acompañada de un gran estilo.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 74,
+      "key": "Eyewear.Services.SubHeading2",
+      "value": "Lentes de Contacto",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 76,
+      "key": "Eyewear.Services.Description2",
+      "value": "Encuentre los Lentes de Contacto Ideales para Usted Con más de 50 tipos de lentes de contacto disponibles, facilitamos encontrar el ajuste perfecto para sus ojos y su estilo de vida. Ya sea que necesite lentes para astigmatismo, miopía, hipermetropía o visión multifocal, lo tenemos cubierto. Incluso ofrecemos lentes de contacto de colores para un nuevo look. Nuestro equipo está aquí para ayudarle a encontrar una opción cómoda y conveniente que funcione para usted—para que pueda ver con claridad sin complicaciones.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 78,
+      "key": "Eyewear.Services.SubHeading3",
+      "value": "Exámenes",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 80,
+      "key": "Eyewear.Services.Description3",
+      "value": "Ofrecemos exámenes oculares completos que incluyen prescripciones para gafas y/o lentes de contacto. Nuestros exámenes van más allá de la visión: pueden ayudar a diagnosticar afecciones como el síndrome del ojo seco, así como detectar signos de problemas cardiovasculares y otros problemas sistémicos de salud. Obtenga la atención que sus ojos merecen, todo en una sola visita.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 82,
+      "key": "Eyewear.PersonalizedStyle.Heading",
+      "value": "Encuentra el Estilo Perfecto para Ti",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 84,
+      "key": "Eyewear.PersonalizedStyle.Description",
+      "value": "En Eye Center Boutique, sabemos que elegir las gafas adecuadas es más que solo visión—se trata de expresar tu estilo y personalidad. Con nuestra amplia selección de monturas y lentes, junto con la guía experta de nuestros Especialistas en Cuidado Ocular, te ayudamos a encontrar el par perfecto que realce tus rasgos y complemente tu apariencia.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 86,
+      "key": "Eyewear.PersonalizedStyle.Card1.Heading",
+      "value": "Selección Exclusiva de Monturas",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 88,
+      "key": "Eyewear.PersonalizedStyle.Card1.Description",
+      "value": "Desde estilos modernos y sofisticados hasta clásicos atemporales, ofrecemos una amplia gama de marcas y diseños para todos los gustos. Ya sea que busque una pieza llamativa o algo elegante y discreto, tenemos las gafas adecuadas para usted.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 90,
+      "key": "Eyewear.PersonalizedStyle.Card2.Heading",
+      "value": "Asistencia de Estilo Personalizada",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 92,
+      "key": "Eyewear.PersonalizedStyle.Card2.Description",
+      "value": "Nuestros Especialistas en Cuidado Ocular se enfocan no solo en su salud ocular, sino también en su estilo único. Le ayudamos a seleccionar las monturas perfectas que se adapten a su prescripción, forma de rostro y estilo de vida, asegurando un ajuste cómodo y una apariencia que le haga sentir seguro.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 94,
+      "key": "Eyewear.PersonalizedStyle.Card3.Heading",
+      "value": "Elija con Confianza",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 96,
+      "key": "Eyewear.PersonalizedStyle.Card3.Description",
+      "value": "Queremos que ame sus nuevas gafas. Si no está seguro de qué estilo le conviene más, nuestro equipo está aquí para guiarle hacia un diseño que resalte sus mejores características y se adapte perfectamente a su estilo de vida.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 98,
+      "key": "Eyewear.Appointment.Heading",
+      "value": "Visítenos hoy y permita que nuestros expertos le ayuden a encontrar el par perfecto.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 100,
+      "key": "Eyewear.Appointment.Button",
+      "value": "Reservar Cita",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 102,
+      "key": "Eyewear.DiamondWarrantyPlan.Heading",
+      "value": "Plan de Garantía Diamante",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 104,
+      "key": "Eyewear.DiamondWarrantyPlan.Description.para1",
+      "value": "Entendemos que la vida sucede. Si sus gafas con receta se dañan o necesitan un ajuste, estamos aquí para ayudarle a ver claramente de nuevo.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 106,
+      "key": "Eyewear.DiamondWarrantyPlan.Description.Para2",
+      "value": "Pregunte a uno de nuestros Especialistas en Cuidado Ocular sobre cómo añadir el Plan de Garantía Diamante al comprar sus gafas. Es una forma fácil de proteger su inversión y disfrutar de tranquilidad mucho después de salir de nuestra oficina.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 108,
+      "key": "Eyewear.DiamondWarrantyPlan.Button",
+      "value": "Reservar Cita",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 110,
+      "key": "Eyewear.DiamondWarrantyPlan.Card1.Heading",
+      "value": "Reparaciones",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 112,
+      "key": "Eyewear.DiamondWarrantyPlan.Card1.Description",
+      "value": "Si sus monturas o lentes se dañan, nuestro Plan de Garantía Diamante cubre un reemplazo gratuito de montura dentro de los 12 meses posteriores a la compra y un copago de $40.00 para el reemplazo de lentes.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 114,
+      "key": "Eyewear.DiamondWarrantyPlan.Card2.Heading",
+      "value": "Ajustes",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 116,
+      "key": "Eyewear.DiamondWarrantyPlan.Card2.Description",
+      "value": "La comodidad y el ajuste son clave para unas buenas gafas. Si sus gafas no se sienten bien, tráigalas de vuelta y con gusto haremos los ajustes necesarios para asegurar el ajuste perfecto.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 118,
+      "key": "Eyewear.Main.Heading1",
+      "value": "Las Marcas que Amas",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 120,
+      "key": "Eyewear.Main.Heading2",
+      "value": "Plan de Garantía Diamante",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 122,
+      "key": "Eyewear.Main.Heading3",
+      "value": "Programa Anual de Suministro ECB",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 124,
+      "key": "Eyewear.Services.Heading",
+      "value": "Nuestros Servicios",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 126,
+      "key": "Eyewear.Services.SubHeading1",
+      "value": "Gafas",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 128,
+      "key": "Eyewear.Services.Description1",
+      "value": "Vea el mundo con claridad y estilo con la inigualable selección de más de 900 monturas en cada ubicación de Eye Center Boutique. Desde estilos audaces y modernos hasta clásicos y minimalistas, tenemos opciones para cada personalidad y presupuesto. Elija entre marcas de renombre como Ray-Ban, Prada, Oakley, Lacoste y más—porque una gran visión siempre debe ir acompañada de un gran estilo.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 130,
+      "key": "Eyewear.Services.SubHeading2",
+      "value": "Lentes de Contacto",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 132,
+      "key": "Eyewear.Services.Description2",
+      "value": "Encuentre los Lentes de Contacto Ideales para Usted Con más de 50 tipos de lentes de contacto disponibles, facilitamos encontrar el ajuste perfecto para sus ojos y su estilo de vida. Ya sea que necesite lentes para astigmatismo, miopía, hipermetropía o visión multifocal, lo tenemos cubierto. Incluso ofrecemos lentes de contacto de colores para un nuevo look. Nuestro equipo está aquí para ayudarle a encontrar una opción cómoda y conveniente que funcione para usted—para que pueda ver con claridad sin complicaciones.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 134,
+      "key": "Eyewear.Services.SubHeading3",
+      "value": "Exámenes",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 136,
+      "key": "Eyewear.Services.Description3",
+      "value": "Ofrecemos exámenes oculares completos que incluyen prescripciones para gafas y/o lentes de contacto. Nuestros exámenes van más allá de la visión: pueden ayudar a diagnosticar afecciones como el síndrome del ojo seco, así como detectar signos de problemas cardiovasculares y otros problemas sistémicos de salud. Obtenga la atención que sus ojos merecen, todo en una sola visita.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 138,
+      "key": "Eyewear.PersonalizedStyle.Heading",
+      "value": "Encuentra el Estilo Perfecto para Ti",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 140,
+      "key": "Eyewear.PersonalizedStyle.Description",
+      "value": "En Eye Center Boutique, sabemos que elegir las gafas adecuadas es más que solo visión—se trata de expresar tu estilo y personalidad. Con nuestra amplia selección de monturas y lentes, junto con la guía experta de nuestros Especialistas en Cuidado Ocular, te ayudamos a encontrar el par perfecto que realce tus rasgos y complemente tu apariencia.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 142,
+      "key": "Eyewear.PersonalizedStyle.Card1.Heading",
+      "value": "Selección Exclusiva de Monturas",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 144,
+      "key": "Eyewear.PersonalizedStyle.Card1.Description",
+      "value": "Desde estilos modernos y sofisticados hasta clásicos atemporales, ofrecemos una amplia gama de marcas y diseños para todos los gustos. Ya sea que busque una pieza llamativa o algo elegante y discreto, tenemos las gafas adecuadas para usted.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 146,
+      "key": "Eyewear.PersonalizedStyle.Card2.Heading",
+      "value": "Asistencia de Estilo Personalizada",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 148,
+      "key": "Eyewear.PersonalizedStyle.Card2.Description",
+      "value": "Nuestros Especialistas en Cuidado Ocular se enfocan no solo en su salud ocular, sino también en su estilo único. Le ayudamos a seleccionar las monturas perfectas que se adapten a su prescripción, forma de rostro y estilo de vida, asegurando un ajuste cómodo y una apariencia que le haga sentir seguro.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 150,
+      "key": "Eyewear.PersonalizedStyle.Card3.Heading",
+      "value": "Elija con Confianza",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 152,
+      "key": "Eyewear.PersonalizedStyle.Card3.Description",
+      "value": "Queremos que ame sus nuevas gafas. Si no está seguro de qué estilo le conviene más, nuestro equipo está aquí para guiarle hacia un diseño que resalte sus mejores características y se adapte perfectamente a su estilo de vida.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 154,
+      "key": "Eyewear.Appointment.Heading",
+      "value": "Visítenos hoy y permita que nuestros expertos le ayuden a encontrar el par perfecto.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 156,
+      "key": "Eyewear.Appointment.Button",
+      "value": "Reservar Cita",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 158,
+      "key": "Eyewear.DiamondWarrantyPlan.Heading",
+      "value": "Plan de Garantía Diamante",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 160,
+      "key": "Eyewear.DiamondWarrantyPlan.Description.para1",
+      "value": "Entendemos que la vida sucede. Si sus gafas con receta se dañan o necesitan un ajuste, estamos aquí para ayudarle a ver claramente de nuevo.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 162,
+      "key": "Eyewear.DiamondWarrantyPlan.Description.Para2",
+      "value": "Pregunte a uno de nuestros Especialistas en Cuidado Ocular sobre cómo añadir el Plan de Garantía Diamante al comprar sus gafas. Es una forma fácil de proteger su inversión y disfrutar de tranquilidad mucho después de salir de nuestra oficina.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 164,
+      "key": "Eyewear.DiamondWarrantyPlan.Button",
+      "value": "Reservar Cita",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 166,
+      "key": "Eyewear.DiamondWarrantyPlan.Card1.Heading",
+      "value": "Reparaciones",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 168,
+      "key": "Eyewear.DiamondWarrantyPlan.Card1.Description",
+      "value": "Si sus monturas o lentes se dañan, nuestro Plan de Garantía Diamante cubre un reemplazo gratuito de montura dentro de los 12 meses posteriores a la compra y un copago de $40.00 para el reemplazo de lentes.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 170,
+      "key": "Eyewear.DiamondWarrantyPlan.Card2.Heading",
+      "value": "Ajustes",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 172,
+      "key": "Eyewear.DiamondWarrantyPlan.Card2.Description",
+      "value": "La comodidad y el ajuste son clave para unas buenas gafas. Si sus gafas no se sienten bien, tráigalas de vuelta y con gusto haremos los ajustes necesarios para asegurar el ajuste perfecto.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 370,
+      "key": "EyeWearLenses.Main.Heading",
+      "value": "La visión clara comienza con la selección de la lente adecuada",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 372,
+      "key": "EyeWearLenses.Main.Description",
+      "value": "Las lentes son el corazón de tus gafas. Con nuestros materiales de lentes premium y mejoras, garantizamos que experimentes la máxima claridad, comodidad y protección cada día.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 374,
+      "key": "EyeWearLenses.Materials.Heading",
+      "value": "Eligiendo el Material de Lente Adecuado",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 376,
+      "key": "EyeWearLenses.Materials.Polycarbonate.Heading",
+      "value": "Lentes de Policarbonato",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 378,
+      "key": "EyeWearLenses.Materials.Polycarbonate.Feature1",
+      "value": "Ultraligeras para comodidad durante todo el día",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 380,
+      "key": "EyeWearLenses.Materials.Polycarbonate.Feature2",
+      "value": "Resistencia superior a impactos para estilos de vida activos",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 382,
+      "key": "EyeWearLenses.Materials.Polycarbonate.Feature3",
+      "value": "Bloquea el 100% de los rayos UV dañinos",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 384,
+      "key": "EyeWearLenses.Materials.HighIndex.Heading",
+      "value": "Lentes de Alto Índice",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 386,
+      "key": "EyeWearLenses.Materials.HighIndex.Feature1",
+      "value": "Reduce el grosor de la lente para una apariencia elegante y refinada",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 388,
+      "key": "EyeWearLenses.Materials.HighIndex.Feature2",
+      "value": "Diseñadas para prescripciones de alta potencia",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 390,
+      "key": "EyeWearLenses.Materials.HighIndex.Feature3",
+      "value": "Gran ajuste para la mayoría de las monturas",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 392,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Heading",
+      "value": "Lentes Fotocromáticas",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 394,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Feature1",
+      "value": "Se oscurecen con la luz solar, claras en interiores. Protección UV",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 396,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Feature2",
+      "value": "Se adaptan perfectamente a las condiciones cambiantes de luz",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 398,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Feature3",
+      "value": "Perfectas para entusiastas del aire libre y personas que pasan tiempo conduciendo",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 400,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Feature4",
+      "value": "Disponibles en más de 8 colores elegantes para combinar con tu estilo",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 402,
+      "key": "EyeWearLenses.Enhancements.Heading",
+      "value": "Mejoras de Lentes para Máximo Rendimiento",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 404,
+      "key": "EyeWearLenses.Enhancements.ScratchUV.Heading",
+      "value": "Resistentes a Arañazos con Protección UV",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 406,
+      "key": "EyeWearLenses.Enhancements.ScratchUV.Feature1",
+      "value": "La protección UV incorporada protege tus ojos de la exposición solar dañina",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 408,
+      "key": "EyeWearLenses.Enhancements.ScratchUV.Feature2",
+      "value": "Cada lente viene con un recubrimiento resistente a arañazos para minimizar el desgaste.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 410,
+      "key": "EyeWearLenses.Enhancements.AntiReflective.Heading",
+      "value": "Tratamiento Antirreflejo",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 412,
+      "key": "EyeWearLenses.Enhancements.AntiReflective.Feature1",
+      "value": "Elimina los reflejos y brillos no deseados.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 414,
+      "key": "EyeWearLenses.Enhancements.AntiReflective.Feature2",
+      "value": "Mejora la transmisión de luz en un 99%, reduciendo la fatiga ocular.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 416,
+      "key": "EyeWearLenses.Enhancements.AntiReflective.Feature3",
+      "value": "El acabado hidrofóbico y oleofóbico repele el agua, huellas dactilares, manchas y aceites.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 418,
+      "key": "EyeWearLenses.Enhancements.SunglassOptions.Heading",
+      "value": "Opciones de Gafas de Sol",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 420,
+      "key": "EyeWearLenses.Enhancements.SunglassOptions.Feature1",
+      "value": "Recubrimiento de espejo disponible en 8 colores que refleja los brillos y protege tus ojos de los rayos UV.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 422,
+      "key": "EyeWearLenses.Enhancements.SunglassOptions.Feature2",
+      "value": "Las lentes polarizadas bloquean los brillos intensos, mejorando la visibilidad y reduciendo la fatiga ocular.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

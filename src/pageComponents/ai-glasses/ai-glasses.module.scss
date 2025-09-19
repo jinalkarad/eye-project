@@ -1,0 +1,27 @@
+.aiGlassesContainer {
+    .heroBanner {
+        background-image: url('../../assets/images/ai_glasses_banner.png');
+        background-size: cover;
+        padding: 100px 80px;
+            background-position-y: bottom;
+            background-repeat: no-repeat;
+
+    }
+
+    .bannerImage {
+        border-radius: 20px;
+    }
+
+    .card {
+        border: 1px solid #D4D7E3;
+        border-radius: 10px;
+        padding: 14px 20px;
+        height: 100%;
+
+        img {
+            object-fit: cover;
+        }
+    }
+
+    
+}

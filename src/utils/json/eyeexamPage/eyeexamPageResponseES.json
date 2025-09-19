@@ -1,0 +1,227 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 424,
+      "key": "EyeExam.Main.Heading",
+      "value": "Exámenes de la Vista",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 426,
+      "key": "EyeExam.Main.Description",
+      "value": "Nuestros optometristas locales están comprometidos a brindar atención ocular accesible y de alta calidad a nuestra comunidad. Nuestros optometristas capacitados ofrecen una gama completa de exámenes de la vista, desde chequeos de rutina hasta diagnósticos especializados, para mantener su visión en su mejor estado.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 428,
+      "key": "EyeExam.Main.Button",
+      "value": "Reservar Cita",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 430,
+      "key": "EyeExam.TypesOfExams.Heading",
+      "value": "Tipos de Exámenes que Ofrecemos",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 432,
+      "key": "EyeExam.TypesOfExams.Type1.Heading",
+      "value": "Examen de Visión Anual",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 434,
+      "key": "EyeExam.TypesOfExams.Type1.Description",
+      "value": "Los exámenes de la vista regulares son esenciales para mantener una visión clara y una salud ocular general. Evaluamos su vista, verificamos cambios en la prescripción y aseguramos que sus ojos funcionen de la mejor manera.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 436,
+      "key": "EyeExam.TypesOfExams.Type2.Heading",
+      "value": "Exámenes Diagnósticos de la Vista",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 438,
+      "key": "EyeExam.TypesOfExams.Type2.Description",
+      "value": "Ofrecemos exámenes especializados e informes de salud para su médico de atención primaria para: Glaucoma, Degeneración macular, Enfermedad ocular diabética, Problemas oculares relacionados con la presión arterial alta.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 440,
+      "key": "EyeExam.TypesOfExams.Type3.Heading",
+      "value": "Examen y Ajuste de Lentes de Contacto",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 442,
+      "key": "EyeExam.TypesOfExams.Type3.Description",
+      "value": "¿Está pensando en cambiar a lentes de contacto? Proporcionamos exámenes completos de lentes de contacto para encontrar el mejor ajuste para sus ojos y estilo de vida. Nuestros doctores lo guiarán a través de la selección, ajuste y cuidado adecuado de sus lentes.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 444,
+      "key": "EyeExam.TypesOfExams.Type4.Heading",
+      "value": "Examen de Visión para Licencia de Conducir",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 446,
+      "key": "EyeExam.TypesOfExams.Type4.Description",
+      "value": "¿Necesita un examen de la vista para renovar su licencia de conducir? Proporcionamos pruebas de agudeza visual rápidas y sencillas para asegurarnos de que cumpla con los requisitos necesarios para conducir de manera segura en Puerto Rico.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 448,
+      "key": "EyeExam.WhyRoutineExamsMatter.Heading",
+      "value": "Por Qué Son Importantes los Exámenes de la Vista",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 450,
+      "key": "EyeExam.WhyRoutineExamsMatter.Paragraph1",
+      "value": "Su salud ocular está estrechamente vinculada a su bienestar general. Los chequeos regulares pueden ayudar a detectar diabetes, hipertensión y otras condiciones sistémicas que pueden afectar su visión. Algunos síntomas que pueden indicar la necesidad de un examen incluyen:",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 452,
+      "key": "EyeExam.WhyRoutineExamsMatter.Paragraph2",
+      "value": "Incluso si no experimenta ningún síntoma, un examen ocular anual es esencial para mantener una salud ocular óptima y prevenir futuros problemas de visión.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 454,
+      "key": "EyeExam.WhyRoutineExamsMatter.Paragraph3",
+      "value": "Nuestro equipo de optometristas experimentados está listo para ayudarle con todas sus necesidades de visión. ¡Programe su cita en línea o llame a su ubicación más cercana hoy mismo!",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 456,
+      "key": "EyeExam.Symptom.Headaches",
+      "value": "Dolores de cabeza",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 458,
+      "key": "EyeExam.Symptom.BlurredOrDoubleVision",
+      "value": "Visión borrosa o doble",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 460,
+      "key": "EyeExam.Symptom.EyePain",
+      "value": "Dolor o molestia ocular",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 462,
+      "key": "EyeExam.Symptom.Redness",
+      "value": "Enrojecimiento",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 464,
+      "key": "EyeExam.Symptom.ItchingDryness",
+      "value": "Picazón o sequedad",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 466,
+      "key": "EyeExam.Symptom.HalosOrFloaters",
+      "value": "Ver halos o manchas flotantes",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

@@ -1,0 +1,857 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 49,
+      "key": "About.EyewearForEveryStyle.Heading",
+      "value": "Eyewear for Every Style & Budget",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 51,
+      "key": "About.EyewearForEveryStyle.Description",
+      "value": "We believe that great vision should never come at the expense of great style. With over 1,000 frames per location and more than 60 top eyewear brands, we cater to every budget, lifestyle, and preference. Whether youre searching for high-fashion designer frames from brands like Prada, Cazal, or Miu Miu; sport-friendly styles like Oakleys; or everyday classics like Ray-Ban, youre guaranteed to find the perfect match",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 61,
+      "key": "Eyewear.Main.Heading1",
+      "value": "The Brands You Love",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 63,
+      "key": "Eyewear.Main.Heading2",
+      "value": "Diamond Warranty Plan",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 65,
+      "key": "Eyewear.Main.Heading3",
+      "value": "ECB Annual Supply Program",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 67,
+      "key": "Eyewear.Services.Heading",
+      "value": "Our Services",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 69,
+      "key": "Eyewear.Services.SubHeading1",
+      "value": "Glasses",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 71,
+      "key": "Eyewear.Services.Description1",
+      "value": "See the world clearly—and in style with Eye Center Boutique’s unmatched selection of over 900 frames at every location. From bold and trendy to classic and minimal, we carry styles for every personality and budget. Choose from top brands like Ray-Ban, Prada, Oakley, Lacoste, and more—because great vision should always come with great style.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 73,
+      "key": "Eyewear.Services.SubHeading2",
+      "value": "Contacts",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 75,
+      "key": "Eyewear.Services.Description2",
+      "value": "Find the Right Contacts for You With over 50 types of contact lenses available, we make it easy to find the perfect fit for your eyes and your lifestyle. Whether you need lenses for astigmatism, nearsightedness, farsightedness, or multifocal vision, we’ve got you covered. We even carry colored contacts for a fresh new look. Our team is here to help you find a comfortable, convenient option that works for you—so you can see clearly without the hassle.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 77,
+      "key": "Eyewear.Services.SubHeading3",
+      "value": "Exams",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 79,
+      "key": "Eyewear.Services.Description3",
+      "value": "We offer comprehensive eye exams that include prescriptions for glasses and/or contact lenses. Our exams go beyond vision—they can help diagnose eye conditions like dry eye syndrome, as well as detect signs of cardiovascular and other systemic health issues. Get the care your eyes deserve, all in one visit.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 81,
+      "key": "Eyewear.PersonalizedStyle.Heading",
+      "value": "Find the Perfect Style for You",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 83,
+      "key": "Eyewear.PersonalizedStyle.Description",
+      "value": "At Eye Center Boutique, we know that choosing the right glasses is more than just about vision—it’s about expressing your style and personality. With our expansive selection of frames and lenses, along with expert guidance from our Eye Care Specialists, we help you find the perfect pair that enhances your features and complements your look.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 85,
+      "key": "Eyewear.PersonalizedStyle.Card1.Heading",
+      "value": "Exclusive Frame Selection",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 87,
+      "key": "Eyewear.PersonalizedStyle.Card1.Description",
+      "value": "From modern and sophisticated styles to timeless classics, we offer a wide range of brands and designs to suit every taste. Whether you're looking for a bold statement piece or something sleek and elegant, we have the right glasses for you.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 89,
+      "key": "Eyewear.PersonalizedStyle.Card2.Heading",
+      "value": "Personalized Styling Assistance",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 91,
+      "key": "Eyewear.PersonalizedStyle.Card2.Description",
+      "value": "Our Eye Care Specialists focus not only on your eye health but also on your unique style. We help you select the perfect frames that fit your  prescription, face shape, and lifestyle ensuring a comfortable fit and a look that makes you feel confident.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 93,
+      "key": "Eyewear.PersonalizedStyle.Card3.Heading",
+      "value": "Choose with Confidence",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 95,
+      "key": "Eyewear.PersonalizedStyle.Card3.Description",
+      "value": "We want you to love your new glasses. If you’re unsure about which style suits you best, our team is here to guide you toward a design that highlights your best features and fits seamlessly into your lifestyle.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 97,
+      "key": "Eyewear.Appointment.Heading",
+      "value": "Visit us today and let our experts help you find the perfect pair.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 99,
+      "key": "Eyewear.Appointment.Button",
+      "value": "Book Appointment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 101,
+      "key": "Eyewear.DiamondWarrantyPlan.Heading",
+      "value": "Diamond Warranty Plan",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 103,
+      "key": "Eyewear.DiamondWarrantyPlan.Description.para1",
+      "value": "We understand that life happens. If your prescription eyewear gets damaged or needs an adjustment, we’re here to help you see clearly again.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 105,
+      "key": "Eyewear.DiamondWarrantyPlan.Description.Para2",
+      "value": "Ask one of our Eye Care Specialists about adding the Diamond Warranty Plan when you purchase your glasses. It’s an easy way to protect your investment and enjoy peace of mind long after you leave our office.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 107,
+      "key": "Eyewear.DiamondWarrantyPlan.Button",
+      "value": "Book Appointment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 109,
+      "key": "Eyewear.DiamondWarrantyPlan.Card1.Heading",
+      "value": "Repairs",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 111,
+      "key": "Eyewear.DiamondWarrantyPlan.Card1.Description",
+      "value": "If your frames or lenses become damaged, our Diamond Warranty Plan covers one complimentary frame replacement within 12 months of purchase and $40.00 co-payment for lens replacement.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 113,
+      "key": "Eyewear.DiamondWarrantyPlan.Card2.Heading",
+      "value": "Adjustments",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 115,
+      "key": "Eyewear.DiamondWarrantyPlan.Card2.Description",
+      "value": "Comfort and fit are key to great eyewear. If your glasses don’t feel just right, bring them back, and we’ll be happy to make the necessary adjustments to ensure the perfect fit.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 117,
+      "key": "Eyewear.Main.Heading1",
+      "value": "The Brands You Love",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 119,
+      "key": "Eyewear.Main.Heading2",
+      "value": "Diamond Warranty Plan",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 121,
+      "key": "Eyewear.Main.Heading3",
+      "value": "ECB Annual Supply Program",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 123,
+      "key": "Eyewear.Services.Heading",
+      "value": "Our Services",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 125,
+      "key": "Eyewear.Services.SubHeading1",
+      "value": "Glasses",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 127,
+      "key": "Eyewear.Services.Description1",
+      "value": "See the world clearly—and in style with Eye Center Boutique’s unmatched selection of over 900 frames at every location. From bold and trendy to classic and minimal, we carry styles for every personality and budget. Choose from top brands like Ray-Ban, Prada, Oakley, Lacoste, and more—because great vision should always come with great style.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 129,
+      "key": "Eyewear.Services.SubHeading2",
+      "value": "Contacts",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 131,
+      "key": "Eyewear.Services.Description2",
+      "value": "Find the Right Contacts for You With over 50 types of contact lenses available, we make it easy to find the perfect fit for your eyes and your lifestyle. Whether you need lenses for astigmatism, nearsightedness, farsightedness, or multifocal vision, we’ve got you covered. We even carry colored contacts for a fresh new look. Our team is here to help you find a comfortable, convenient option that works for you—so you can see clearly without the hassle.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 133,
+      "key": "Eyewear.Services.SubHeading3",
+      "value": "Exams",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 135,
+      "key": "Eyewear.Services.Description3",
+      "value": "We offer comprehensive eye exams that include prescriptions for glasses and/or contact lenses. Our exams go beyond vision—they can help diagnose eye conditions like dry eye syndrome, as well as detect signs of cardiovascular and other systemic health issues. Get the care your eyes deserve, all in one visit.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 137,
+      "key": "Eyewear.PersonalizedStyle.Heading",
+      "value": "Find the Perfect Style for You",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 139,
+      "key": "Eyewear.PersonalizedStyle.Description",
+      "value": "At Eye Center Boutique, we know that choosing the right glasses is more than just about vision—it’s about expressing your style and personality. With our expansive selection of frames and lenses, along with expert guidance from our Eye Care Specialists, we help you find the perfect pair that enhances your features and complements your look.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 141,
+      "key": "Eyewear.PersonalizedStyle.Card1.Heading",
+      "value": "Exclusive Frame Selection",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 143,
+      "key": "Eyewear.PersonalizedStyle.Card1.Description",
+      "value": "From modern and sophisticated styles to timeless classics, we offer a wide range of brands and designs to suit every taste. Whether you're looking for a bold statement piece or something sleek and elegant, we have the right glasses for you.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 145,
+      "key": "Eyewear.PersonalizedStyle.Card2.Heading",
+      "value": "Personalized Styling Assistance",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 147,
+      "key": "Eyewear.PersonalizedStyle.Card2.Description",
+      "value": "Our Eye Care Specialists focus not only on your eye health but also on your unique style. We help you select the perfect frames that fit your  prescription, face shape, and lifestyle ensuring a comfortable fit and a look that makes you feel confident.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 149,
+      "key": "Eyewear.PersonalizedStyle.Card3.Heading",
+      "value": "Choose with Confidence",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 151,
+      "key": "Eyewear.PersonalizedStyle.Card3.Description",
+      "value": "We want you to love your new glasses. If you’re unsure about which style suits you best, our team is here to guide you toward a design that highlights your best features and fits seamlessly into your lifestyle.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 153,
+      "key": "Eyewear.Appointment.Heading",
+      "value": "Visit us today and let our experts help you find the perfect pair.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 155,
+      "key": "Eyewear.Appointment.Button",
+      "value": "Book Appointment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 157,
+      "key": "Eyewear.DiamondWarrantyPlan.Heading",
+      "value": "Diamond Warranty Plan",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 159,
+      "key": "Eyewear.DiamondWarrantyPlan.Description.para1",
+      "value": "We understand that life happens. If your prescription eyewear gets damaged or needs an adjustment, we’re here to help you see clearly again.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 161,
+      "key": "Eyewear.DiamondWarrantyPlan.Description.Para2",
+      "value": "Ask one of our Eye Care Specialists about adding the Diamond Warranty Plan when you purchase your glasses. It’s an easy way to protect your investment and enjoy peace of mind long after you leave our office.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 163,
+      "key": "Eyewear.DiamondWarrantyPlan.Button",
+      "value": "Book Appointment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 165,
+      "key": "Eyewear.DiamondWarrantyPlan.Card1.Heading",
+      "value": "Repairs",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 167,
+      "key": "Eyewear.DiamondWarrantyPlan.Card1.Description",
+      "value": "If your frames or lenses become damaged, our Diamond Warranty Plan covers one complimentary frame replacement within 12 months of purchase and $40.00 co-payment for lens replacement.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 169,
+      "key": "Eyewear.DiamondWarrantyPlan.Card2.Heading",
+      "value": "Adjustments",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 171,
+      "key": "Eyewear.DiamondWarrantyPlan.Card2.Description",
+      "value": "Comfort and fit are key to great eyewear. If your glasses don’t feel just right, bring them back, and we’ll be happy to make the necessary adjustments to ensure the perfect fit.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 369,
+      "key": "EyeWearLenses.Main.Heading",
+      "value": "Clear Vision Starts with Selecting the Right Lens",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 371,
+      "key": "EyeWearLenses.Main.Description",
+      "value": "Lenses are the heart of your eyewear. With our premium lens materials and enhancements, we ensure you experience maximum clarity, comfort, and protection every day.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 373,
+      "key": "EyeWearLenses.Materials.Heading",
+      "value": "Choosing the Right Lens Material",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 375,
+      "key": "EyeWearLenses.Materials.Polycarbonate.Heading",
+      "value": "Polycarbonate Lenses",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 377,
+      "key": "EyeWearLenses.Materials.Polycarbonate.Feature1",
+      "value": "Ultra-lightweight for all day comfort",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 379,
+      "key": "EyeWearLenses.Materials.Polycarbonate.Feature2",
+      "value": "Superior impact resistance for active lifestyles",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 381,
+      "key": "EyeWearLenses.Materials.Polycarbonate.Feature3",
+      "value": "Blocks 100% of harmful UV rays",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 383,
+      "key": "EyeWearLenses.Materials.HighIndex.Heading",
+      "value": "High Index Lenses",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 385,
+      "key": "EyeWearLenses.Materials.HighIndex.Feature1",
+      "value": "Reduces lens thickness for a sleek, refined look",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 387,
+      "key": "EyeWearLenses.Materials.HighIndex.Feature2",
+      "value": "Designed for high-powered prescriptions",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 389,
+      "key": "EyeWearLenses.Materials.HighIndex.Feature3",
+      "value": "Great fit for most frames",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 391,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Heading",
+      "value": "Light-Adaptive Lenses",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 393,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Feature1",
+      "value": "Darken in sunlight, clear indoors. UV protection",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 395,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Feature2",
+      "value": "Seamlessly adapt to changing light conditions",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 397,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Feature3",
+      "value": "Perfect for outdoor enthusiasts and people who spend time driving",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 399,
+      "key": "EyeWearLenses.Materials.LightAdaptive.Feature4",
+      "value": "Available in more than 8+ stylish colors to match your look",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 401,
+      "key": "EyeWearLenses.Enhancements.Heading",
+      "value": "Lens Enhancements for Maximum Performance",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 403,
+      "key": "EyeWearLenses.Enhancements.ScratchUV.Heading",
+      "value": "Scratch Resistant with UV Protection",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 405,
+      "key": "EyeWearLenses.Enhancements.ScratchUV.Feature1",
+      "value": "Built-in UV protection shields your eyes from harmful sun exposure",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 407,
+      "key": "EyeWearLenses.Enhancements.ScratchUV.Feature2",
+      "value": "Every lens comes with a scratch-resistant coating to minimize wear and tear.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 409,
+      "key": "EyeWearLenses.Enhancements.AntiReflective.Heading",
+      "value": "Anti-Reflective Treatment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 411,
+      "key": "EyeWearLenses.Enhancements.AntiReflective.Feature1",
+      "value": "Eliminates unwanted glare and reflections.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 413,
+      "key": "EyeWearLenses.Enhancements.AntiReflective.Feature2",
+      "value": "Enhances light transmission by 99%, reducing eye strain.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 415,
+      "key": "EyeWearLenses.Enhancements.AntiReflective.Feature3",
+      "value": "Hydrophobic & Oleophobic Finish repels water, fingerprints, smudges, and oils.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 417,
+      "key": "EyeWearLenses.Enhancements.SunglassOptions.Heading",
+      "value": "Sunglass Options",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 419,
+      "key": "EyeWearLenses.Enhancements.SunglassOptions.Feature1",
+      "value": "Mirror coating available in 8 colors that reflects glares and protects your eyes from UV rays.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 421,
+      "key": "EyeWearLenses.Enhancements.SunglassOptions.Feature2",
+      "value": "Polarized lenses block harsh glare, enhancing visibility and reducing eye strain.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

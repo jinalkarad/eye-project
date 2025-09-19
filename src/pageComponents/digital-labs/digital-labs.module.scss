@@ -1,0 +1,69 @@
+.digitalLabsContainer {
+    .heroBanner {
+        background-image: url('../../assets/images/digital_labs_banner.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 474px;
+
+        &::after {
+            display: none;
+        }
+         @media (max-width: 991px) {
+            height: 400px;
+        }
+
+        @media (max-width: 480px) {
+            height: 240px;
+        }
+    }
+
+    .lenseComparisionContainer {
+
+        .lenseComparisionBanner {
+            display: block;
+            margin: 0 auto;
+            padding: 0px;
+            border-radius: 20px;
+        }
+    }
+
+    .labDoctorImage,
+    .lenseCheckingImage,
+    .lenseTypeImage {
+        border-radius: 20px;
+        object-fit: cover;
+        max-height: 450px;
+    }
+
+    .labDoctorContent{
+        padding-left:25px;
+    }
+
+    .lenseTypeImage {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .customLensesBanner {
+        border-radius: 20px;
+        object-fit: cover;
+    }
+    
+    .customLenseContent {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background: #00000033;
+    }
+    @media screen and (max-width:991px) {
+        .labDoctorContent{
+        padding-left:12px;
+    }
+    }   
+    @media screen and (max-width:767px){
+        .customLenseContent{
+            width: 100%;
+        }
+    }
+}

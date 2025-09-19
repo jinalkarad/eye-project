@@ -1,0 +1,47 @@
+.glassesContainer {
+    .heroBanner {
+        background-image: url('../../assets/images/glasses_bg.png');
+        background-size: cover;
+        height: 470px;
+
+        &::after {
+            background-color: rgba(0,0,0, 0.5);
+        }
+
+        @media (max-width: 1024px) {
+            height: 400px;
+        }
+    }
+
+    .ourBestSellers {
+        .heighlight_product {
+            border-radius: 10px;
+            background: #F4F6FF;
+            padding: 35px 30px;
+        }
+
+        .product_card {
+            border-radius: 10px;
+            background: #F4F6FF;
+            padding: 12px 0px;
+        }
+    }
+
+    .numbers {
+        width: 58px;
+        height: 58px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #EBC363;
+        border-radius: 100%;
+        color: #000;
+        text-align: center;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: normal;
+    }
+
+
+}

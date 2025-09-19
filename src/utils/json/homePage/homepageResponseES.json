@@ -1,0 +1,187 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 2,
+      "key": "Homepage.Hero.Heading",
+      "value": "VEA MEJOR, VIVA MEJOR",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 4,
+      "key": "Homepage.Hero.SubHeading",
+      "value": "MANTENGA SU VISIÓN ACTUALIZADA",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 6,
+      "key": "Homepage.Hero.Button",
+      "value": "Reservar una cita",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 8,
+      "key": "Homepage.Search.Heading1",
+      "value": "Encuentra una ubicación",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 10,
+      "key": "Homepage.Search.Heading2",
+      "value": "Aceptamos todos los seguros",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 12,
+      "key": "Homepage.Search.Button",
+      "value": "Aprende más",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 14,
+      "key": "Homepage.Search.Heading1.Placeholder",
+      "value": "Ingrese la ciudad o código postal",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 16,
+      "key": "Homepage.BestSellers.Heading",
+      "value": "Nuestros más vendidos",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 18,
+      "key": "Homepage.BestSellers.SubHeading",
+      "value": "Monturas que amas, calidad en la que confías",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 20,
+      "key": "Homepage.Trending.Heading",
+      "value": "¿Listo para la próxima generación de gafas con IA?",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 22,
+      "key": "Homepage.Trending.Description",
+      "value": "La colección Ray-Ban Meta combina lo último en tecnología portátil con el diseño auténtico de Ray-Ban para mantenerte conectado dondequiera que vayas.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 24,
+      "key": "Homepage.Trending.Button",
+      "value": "Aprende más",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 26,
+      "key": "Homepage.Insurance.Heading",
+      "value": "Nos enorgullece aceptar una amplia variedad de planes de seguro de visión para que su experiencia sea fluida:",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 28,
+      "key": "Homepage.Insurance.Description",
+      "value": "Si su proveedor de seguros no está en la lista, ¡contáctenos! Nuestro equipo puede verificar sus beneficios y explorar las opciones disponibles para usted.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 30,
+      "key": "Homepage.Optometrist.Heading",
+      "value": "Conoce a tu optometrista",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 32,
+      "key": "Homepage.Optometrist.SubHeading",
+      "value": "Tu visión, nuestra prioridad",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 34,
+      "key": "Homepage.Optometrist.Description",
+      "value": "En Eye Center Boutique, somos más que una óptica: somos sus expertos de confianza en cuidado visual, dedicados a servir a la comunidad de Puerto Rico con atención ocular personalizada y completa. Ya sea que nos visite para un examen de la vista de rutina, actualizar sus gafas, explorar opciones de lentes de contacto o manejar su salud ocular, nuestro equipo experimentado está aquí para guiarlo en cada paso del camino.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 36,
+      "key": "Homepage.Optometrist.Button",
+      "value": "Encuentra un doctor",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

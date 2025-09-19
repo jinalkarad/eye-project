@@ -1,0 +1,123 @@
+.faqContainer {
+    .heroBanner {
+        background-image: url('../../assets/images/faq_bg1.jpg');
+        background-size: cover;
+        height: 474px;
+
+        @media (max-width:480px) {
+            height: 300px;
+        background-position: center;
+        }
+    }
+
+    .header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        gap: 14px;
+        border: 1px solid #00000014;
+        border-radius: 50px;
+        padding: 6px;
+
+        button {
+            background: none;
+            border: none;
+            padding: 10px 16px;
+            border-radius: 50px;
+
+            &.active {
+                background-color: #FFEEC4;
+            }
+        }
+
+        @media screen and (max-width:767px) {
+                flex-wrap: nowrap;
+                overflow-x: auto;
+                justify-content: flex-start;
+                -webkit-overflow-scrolling: touch;
+                scrollbar-width: none;
+                margin: 0px 10px;
+
+                &::-webkit-scrollbar {
+                    display: none;
+                }
+            button {
+                white-space: nowrap !important;
+            }
+        }
+    }
+
+    .faqCard {
+        border: 1px solid #00000014;
+        border-radius: 20px;
+        display: flex;
+        gap: 20px;
+
+        .titleContainer {
+            width: 250px;
+
+            .title {
+                color: #000;
+            }
+        }
+
+        .questionContainer {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            cursor: pointer;
+
+            .qaContainer {
+                .question {
+                    font-weight: 500;
+                    color: #020817;
+                }
+
+                .openQuestion {
+                    font-weight: 600;
+                    color: #BF8327;
+                }
+            }
+
+            .openIcon,
+            .closeIcon {
+                margin-top: 5px;
+                cursor: pointer;
+            }
+        }
+
+        .horizontalLine {
+            width: 100%;
+            height: 1px;
+            background-color: #00000014;
+            margin: 20px 0px 28px;
+        }
+
+        @media screen and (max-width: 991px) {
+            flex-direction: column;
+        }
+        @media screen and (max-width:550px){
+            margin: 0px 10px;
+            padding: 25px;
+        }
+    }
+
+    .answerContainer {
+        overflow: hidden;
+        max-height: 0;
+        // opacity: 0;
+        transition: max-height 0.3s ease, opacity 0.3s ease;
+    }
+
+    .closedAnswer {
+        max-height: 0;
+        // opacity: 0;
+    }
+
+    .openAnswer {
+        max-height: 500px; // or some large enough height to fit the content
+        // opacity: 1;
+    }
+
+}

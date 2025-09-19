@@ -1,0 +1,375 @@
+.container {
+    .heroBanner {
+        .videoWrapper {
+            position: absolute;
+            top: 0;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+
+            video {
+                width: 100%;
+                object-fit: contain;
+            }
+        }
+
+        .contentWrapper {
+            position: relative;
+            z-index: 3;
+            height: 600px;
+            display: flex;
+            align-items: center;
+            background: #00000017;
+
+            .content {
+                max-width: 50%;
+                padding: 0 20px;
+                animation: fadeIn 1s ease-out;
+                margin: auto 0 60px 100px;
+            }
+
+            @media screen and (max-width: 768px) {
+                height: 100%;
+            }
+        }
+
+        .headingIcon {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 24px;
+            animation: fadeInUp 0.8s ease-out 0.2s both;
+
+            .dividerLine {
+                width: 84px;
+                height: 1px;
+                background: #fff;
+            }
+
+            .icon {
+                height: 18px;
+                width: auto;
+            }
+        }
+
+        .subHeading {
+            color: #fff;
+            font-size: 20px;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin: 0 0 16px;
+            animation: fadeInUp 0.8s ease-out 0.4s both;
+        }
+
+        .mainHeading {
+            color: #fff;
+            font-size: 42px;
+            font-weight: 400;
+            line-height: 1.2;
+            margin: 0 0 32px;
+            animation: fadeInUp 0.8s ease-out 0.6s both;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+
+            span {
+                font-weight: 900;
+            }
+        }
+
+        .button {
+            background: linear-gradient(90deg, #BF8327 -10.45%, #F4DC60 52.24%, #BF8327 118.81%);
+            border: none;
+            border-radius: 8px;
+            color: #000;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 600;
+            padding: 16px 40px;
+            min-width: 250px;
+            transition: all 0.3s ease;
+            animation: fadeInUp 0.8s ease-out 0.8s both;
+
+            &:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            }
+        }
+
+        &::after {
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        @media screen and (max-width: 1099px) {
+            .videoWrapper {
+                height: auto;
+                position: relative;
+            }
+
+            .contentWrapper {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                width: 100%;
+
+                .content {
+                    margin: 0;
+                }
+            }
+        }
+
+        @media (max-width: 768px) {
+            // height: auto;
+            // background: linear-gradient(90deg, #BF8327 -10.45%, #F4DC60 52.24%, #BF8327 118.81%);
+
+            .contentWrapper {
+                        padding: 40px 0px 14px 0px;
+                        text-align: center;
+                        align-items: end;
+                        justify-content: center;
+
+                .content {
+                    padding: 0 20px;
+                    max-width: 90%;
+                }
+            }
+            .divider:after {
+                width: unset;
+                height: unset;
+                top: unset;
+                bottom: unset;
+                margin: unset;
+            }
+
+            .headingIcon {
+                margin-bottom: 20px;
+                justify-content: center;
+                
+                .dividerLine {
+                    background: #000;
+                }
+            }
+
+            .subHeading,
+            .mainHeading {
+                // color: #000;
+                text-shadow: none;
+            }
+
+            .mainHeading {
+                font-size: 32px;
+                margin-bottom: 0px;
+            }
+
+            .button {
+                background: #fff;
+                padding: 14px 40px;
+                margin-top: 0;
+            }
+
+            // &::after {
+            //     display: none;
+            // }
+
+            .videoWrapper {
+                transform: none;
+                top: auto;
+                
+                video {
+                    height: 400px;
+                    object-fit: cover;
+                }
+            }
+        }
+    }
+
+    .fadeInUp {
+        opacity: 0;
+        transform: translateY(20px);
+        animation: fadeIn 0.8s ease forwards;
+    }
+
+    .delay1 {
+        animation-delay: 0.3s;
+    }
+
+    .delay2 {
+        animation-delay: 0.6s;
+    }
+
+    .delay3 {
+        animation-delay: 0.9s;
+    }
+
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+
+    @keyframes fadeInUp {
+        from {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+}
+
+.locationSection {
+    padding: 46px 0;
+
+    @media (max-width: 768px) {
+        .divider {
+            &::after {
+                width: 100%;
+                height: 1px;
+                top: 0;
+                bottom: 0;
+                margin: auto 0;
+            }
+        }
+    }
+
+    .leftSection {
+        @media screen and (max-width: 768px) {
+            margin-bottom: 40px;
+        }
+        @media screen and (max-width: 767px) {
+            margin-bottom: 70px;
+        }
+    }
+
+    .headingIcon {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 16px;
+
+        .dividerLine {
+            background: #000;
+            width: 84px;
+            height: 1px;
+        }
+    }
+
+    .formLocation {
+        position: relative;
+        margin-top: 20px;
+        @media (max-width:768px){
+            
+        margin-top: 45px;
+  
+        }
+        @media (max-width:767px){
+            
+        margin-top: 20px;
+  
+        }
+    }
+
+    .btnSecondary {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: var(--bs-secondary);
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        font-weight: bold;
+    }
+}
+
+.ourBestSellers {
+    @media (max-width: 768px) {
+        .mt_72 {
+            margin-top: 20px;
+        }
+
+        .heighlight_product {
+            .product_img {
+                height: 200px;
+            }
+        }
+        
+    }
+
+    .heighlight_product {
+        border-radius: 10px;
+        background: #F4F6FF;
+        padding: 35px 30px;
+    }
+
+    .product_card {
+        border-radius: 10px;
+        background: #FFFFFF;
+        padding: 12px 0px;
+        height: 100%;
+        border: 1px solid rgba(0,0,0, 0.1);
+
+        @media (max-width: 768px) {
+            height: auto;
+            // margin: 15px 0px;
+        }
+    }
+}
+
+.our_doctor {
+    @media (max-width: 768px) {
+        .mt_50 {
+            margin-top: 10px;
+        }
+        .img_box {
+            height: 200px;
+        }
+    }
+
+    p {
+        // color: #000;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5;
+
+        @media (max-width: 768px) {
+            font-size: 18px;
+        }
+    }
+        .sub-title {
+            font-size: 20px;
+            color: #000;
+        }
+
+
+}
+
+.marquee__image {
+    @media (max-width: 768px) {
+      max-width: 50%;
+      width: 100px;
+    }
+  }
+  
+.meet-your-optometrist {
+    @media (max-width:1024px) {
+        max-width: 100%;
+    }
+}
+
+.guessLogo{
+        width: 192px;
+    height: 80px;
+    @media (max-width:768px){
+            width: 100px;
+    }
+    @media (max-width:550px){
+        height: 65px;
+    }
+}

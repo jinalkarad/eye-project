@@ -1,0 +1,227 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 26,
+      "key": "Homepage.Insurance.Heading",
+      "value": "Nos enorgullece aceptar una amplia variedad de planes de seguro de visión para que su experiencia sea fluida:",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 28,
+      "key": "Homepage.Insurance.Description",
+      "value": "Si su proveedor de seguros no está en la lista, ¡contáctenos! Nuestro equipo puede verificar sus beneficios y explorar las opciones disponibles para usted.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 174,
+      "key": "Insurance.Main.Heading1",
+      "value": "Aceptamos todos los seguros",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 176,
+      "key": "Insurance.Main.Description",
+      "value": "Creemos que la atención ocular de calidad debe ser accesible para todos. Por eso colaboramos con los principales proveedores de seguros de visión de Puerto Rico para ayudarle a aprovechar al máximo sus beneficios.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 178,
+      "key": "Insurance.Main.Button",
+      "value": "Programar una cita",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 180,
+      "key": "Insurance.InsuranceProvider.Heading",
+      "value": "Aceptamos con orgullo una amplia gama de planes de seguro de visión para hacer su experiencia sin complicaciones:",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 182,
+      "key": "Insurance.InsuranceProvider.Note",
+      "value": "Si su proveedor de seguros no está en la lista, por favor contáctenos. Nuestro equipo puede verificar sus beneficios y explorar las opciones disponibles para usted.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 184,
+      "key": "Insurance.MaximizeBenefits.Heading",
+      "value": "Entienda Qué Está Cubierto - Nosotros lo Tenemos Cubierto",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 186,
+      "key": "Insurance.MaximizeBenefits.Card1.Heading",
+      "value": "Orientación ",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 188,
+      "key": "Insurance.MaximizeBenefits.Card1.Description",
+      "value": "Nuestros asociados están bien informados sobre el panorama de seguros en Puerto Rico y le ayudarán a comprender lo que cubre su plan.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 190,
+      "key": "Insurance.MaximizeBenefits.Card2.Heading",
+      "value": "Beneficios",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 192,
+      "key": "Insurance.MaximizeBenefits.Card2.Description",
+      "value": "Nos aseguramos de que aproveche al máximo sus beneficios de visión antes de que expiren, ayudándole a obtener su examen de la vista, gafas o lentes de contacto.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 194,
+      "key": "Insurance.MaximizeBenefits.Card3.Heading",
+      "value": "pagos",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 196,
+      "key": "Insurance.MaximizeBenefits.Card3.Description",
+      "value": "Si su plan no cubre todo, ofrecemos precios asequibles y descuentos especiales en gafas y lentes.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 198,
+      "key": "Insurance.UnderstandCoverage.Heading",
+      "value": "¿No está completamente cubierto? ¡Tenemos soluciones!",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 200,
+      "key": "Insurance.UnderstandCoverage.Bullet1",
+      "value": "¿Necesita un nuevo par de gafas pero no tiene beneficios para monturas este año? Ofrecemos opciones de gafas asequibles para adaptarse a su presupuesto.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 202,
+      "key": "Insurance.UnderstandCoverage.Bullet2",
+      "value": "¿Sabía que sus beneficios de visión se restablecen cada año? ",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 204,
+      "key": "Insurance.UnderstandCoverage.Bullet3",
+      "value": "¿No está seguro de lo que está incluido en su cobertura? Nuestro equipo revisará sus beneficios y se asegurará de que obtenga todo lo que le corresponde.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 206,
+      "key": "Insurance.AppointmentCard.Heading",
+      "value": "Agende su cita hoy mismo",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 208,
+      "key": "Insurance.AppointmentCard.Description",
+      "value": "Su visión es nuestra prioridad. Permítanos ayudarle a aprovechar sus beneficios de seguro y encontrar la solución perfecta en gafas para usted.",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 210,
+      "key": "Insurance.AppointmentCard.Button1",
+      "value": "Llámenos hoy",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 212,
+      "key": "Insurance.AppointmentCard.Button2",
+      "value": "Reserve su cita",
+      "language": "es",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

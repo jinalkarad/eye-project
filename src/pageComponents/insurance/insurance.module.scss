@@ -1,0 +1,19 @@
+.insuranceContainer {
+    .heroBanner {
+        background: url('../../assets/images/insurance_banner.jpg');
+        background-size: cover;
+        background-position-y: -180px;
+        height: 474px;
+
+        @media (max-width: 991px) {
+            height: 400px;
+            background-position-y: unset;
+        }
+
+        @media (max-width: 480px) {
+            height: 312px;
+            
+        }
+    }
+
+}

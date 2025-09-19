@@ -1,0 +1,26 @@
+.eyeExamsContainer {
+    .heroBanner {
+        background-image: url('../../assets/images/eye_exam_banner.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 474px !important;
+        @media (max-width: 991px) {
+      height: 400px;
+    }
+
+    @media (max-width: 480px) {
+      height: 358px;
+    }
+    }
+    .examWeOfferSection li{
+       font-size :18px; 
+       font-weight: 500;
+       color:#545454; 
+    }
+    @media (max-width:1099px) {
+        .examWeOfferSection li{
+            font-size: 14px;
+         }
+    }
+     
+}

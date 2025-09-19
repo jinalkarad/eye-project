@@ -1,0 +1,187 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 1,
+      "key": "Homepage.Hero.Heading",
+      "value": "SEE BETTER, LIVE BETTER",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 3,
+      "key": "Homepage.Hero.SubHeading",
+      "value": "KEEP YOUR VISION UP TO DATE",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 5,
+      "key": "Homepage.Hero.Button",
+      "value": "Book an Appointment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 7,
+      "key": "Homepage.Search.Heading1",
+      "value": "Find a Location",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 9,
+      "key": "Homepage.Search.Heading2",
+      "value": "We Welcome All Insurances",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 11,
+      "key": "Homepage.Search.Button",
+      "value": "Learn More",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 13,
+      "key": "Homepage.Search.Heading1.Placeholder",
+      "value": "Enter City or Zip Code",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 15,
+      "key": "Homepage.BestSellers.Heading",
+      "value": "Our Best Sellers",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 17,
+      "key": "Homepage.BestSellers.SubHeading",
+      "value": "Frames you Love, Quality you Trust",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 19,
+      "key": "Homepage.Trending.Heading",
+      "value": "Ready for the next generation of AI glasses?",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 21,
+      "key": "Homepage.Trending.Description",
+      "value": "The Ray-Ban Meta collection combines the latest in wearable tech with authentic Ray-Ban design, to keep you connected wherever you go.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 23,
+      "key": "Homepage.Trending.Button",
+      "value": "Learn More",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 25,
+      "key": "Homepage.Insurance.Heading",
+      "value": "We proudly welcome a wide range of vision insurance plans to make your experience seamless:",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 27,
+      "key": "Homepage.Insurance.Description",
+      "value": "If your insurance provider isn’t listed, contact us! Our team can verify your benefits and explore available options for you.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 29,
+      "key": "Homepage.Optometrist.Heading",
+      "value": "Meet Your Optometrist",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 31,
+      "key": "Homepage.Optometrist.SubHeading",
+      "value": "Your Vision, Our Priority",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 33,
+      "key": "Homepage.Optometrist.Description",
+      "value": "At Eye Center Boutique, we’re more than just an optical - we’re your trusted vision care experts, dedicated to serving the Puerto Rico community with personalized and comprehensive eye care. Whether youre visiting us for a routine vision exam, updating your glasses, exploring contact lens options, or managing your eye health, our experienced team is here to guide you every step of the way.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 35,
+      "key": "Homepage.Optometrist.Button",
+      "value": "Find a Doctor",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

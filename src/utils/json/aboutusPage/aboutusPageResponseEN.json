@@ -1,0 +1,267 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 37,
+      "key": "About.Main.Heading",
+      "value": "Premium Vision Care",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 39,
+      "key": "About.Main.Description",
+      "value": "At Eye Center Boutique, we are committed to delivering premium vision care with a patient-first approach. As Puerto Rico’s leading optical boutique, we combine state-of-the-art technology, an expansive selection of eyewear, and community eye doctors to provide the most comprehensive and convenient eye care experience.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 41,
+      "key": "About.OurCommitment.Heading",
+      "value": "Our Commitment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 43,
+      "key": "About.OurCommitment.Description",
+      "value": "Our mission is simple: everyone deserves exceptional vision care. That’s why we proudly welcome all medical plans, ensuring that high-quality eye health services are accessible to all. Whether you need a comprehensive eye exam or are just looking for a pair of new sunglasses, our certified optometrists will deliver personalized care tailored for your needs.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 45,
+      "key": "About.OnSiteDigitalLabs.Heading",
+      "value": "On-Site Digital Labs",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 47,
+      "key": "About.OnSiteDigitalLabs.Description",
+      "value": "At Eye Center Boutique, we’re proud to have the most advanced digital labs in Puerto Rico—right inside our offices. This means we can make your glasses quickly and with precision, without having to send them out. Our technology allows us to create all types of lenses, including digital progressives, prescription sunglasses, and lenses with anti-reflective or blue light protection. Because everything is done in-house, we’re able to offer same-day or next-day service in many cases—something most other opticals can’t match.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 49,
+      "key": "About.EyewearForEveryStyle.Heading",
+      "value": "Eyewear for Every Style & Budget",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 51,
+      "key": "About.EyewearForEveryStyle.Description",
+      "value": "We believe that great vision should never come at the expense of great style. With over 1,000 frames per location and more than 60 top eyewear brands, we cater to every budget, lifestyle, and preference. Whether youre searching for high-fashion designer frames from brands like Prada, Cazal, or Miu Miu; sport-friendly styles like Oakleys; or everyday classics like Ray-Ban, youre guaranteed to find the perfect match",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 53,
+      "key": "About.MeetYourOptometrist.Heading",
+      "value": "Meet Your Optometrist",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 55,
+      "key": "About.MeetYourOptometrist.Button",
+      "value": "View All",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 57,
+      "key": "About.FAQCard.Heading",
+      "value": "Visit our FAQs page to learn more",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 59,
+      "key": "About.FAQCard.Button",
+      "value": "View FAQ",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 303,
+      "key": "AboutUsLearnMore.Main.Heading1",
+      "value": "Ready for the next generation of AI glasses?",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 305,
+      "key": "AboutUsLearnMore.Main.Description",
+      "value": "The Ray-Ban Meta collection combines the latest in wearable tech with authentic Ray-Ban design, to keep you connected wherever you go.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 307,
+      "key": "AboutUsLearnMore.MetaAI.Heading",
+      "value": "Meta AI",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 309,
+      "key": "AboutUsLearnMore.MetaAI.Description",
+      "value": "Use your voice to spark your creativity, get information, and control your glasses just by saying “Hey Meta”. Ask Meta AI to learn something new, simplify daily tasks, or translate languages on the go. Learn the history of a landmark, translate a sign, or get recipes based on what’s in your fridge. It can also scan QR codes, or note and recall information for later.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 311,
+      "key": "AboutUsLearnMore.Camera.Heading",
+      "value": "Camera",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 313,
+      "key": "AboutUsLearnMore.Camera.Description",
+      "value": "Capture exactly what you see and hear with the new ultra-wide 12 MP camera and five-mic system. Take high-quality photos and immersive videos and share it all to Facebook and Instagram. Toggle between your phone and glasses camera when you videocall or livestream, so that everyone can experience your unique view of the world.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 315,
+      "key": "AboutUsLearnMore.Audio.Heading",
+      "value": "Audio",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 317,
+      "key": "AboutUsLearnMore.Audio.Description",
+      "value": "Seamlessly switch between your favorite tracks, calls, and surroundings with discreet, open-ear speakers. They’re custom built to deliver extended bass and high maximum volume for a rich listening experience, even in noisy or windy environments. Everything is for your ears only, thanks to improved directional audio.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 319,
+      "key": "AboutUsLearnMore.Controls.Heading",
+      "value": "Controls",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 321,
+      "key": "AboutUsLearnMore.Controls.Description",
+      "value": "Unlock a range of hands-free possibilities with voice command – call and message, capture content, and manage media settings with your phone in your pocket. Or activate the features in a single touch with the hyper-responsive touchpad and capture button.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 323,
+      "key": "AboutUsLearnMore.ChargingCase.Heading",
+      "value": "Charging Case",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 325,
+      "key": "AboutUsLearnMore.ChargingCase.Description",
+      "value": "Up to four hours of battery life, plus a sleek, portable charging case – which provides up to eight more charges on the go – means you can focus on your day without interruption. The slim case fits in your back-pocket or bag, while smart charging preserves and extends your battery life.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 327,
+      "key": "AboutUsLearnMore.MetaViewApp.Heading",
+      "value": "Meta View App",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 329,
+      "key": "AboutUsLearnMore.MetaViewApp.Description",
+      "value": "Our improved companion app enhances the experience of your glasses. Pair multiple glasses to your phone, and manage them in one place. Take an interactive tour and discover key features via a new Home tab. Add special effects to content, and easily share with friends.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

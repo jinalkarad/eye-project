@@ -1,0 +1,159 @@
+.aboutUsContainer {
+  .heroBanner {
+    background: url("../../assets/images/about_bg.jpg");
+    background-size: cover;
+    height: 460px;
+    background-position: center center;
+
+    @media (max-width: 991px) {
+      height: 400px;
+      // background: url("../../assets/images/about_us_tab_view.png");
+    }
+
+    @media (max-width: 480px) {
+      background: url("../../assets/images/about_us_mobile_view.png");
+      height: 240px;
+    }
+  }
+}
+
+.img_box {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding-top: 75%; // 4:3 aspect ratio
+  overflow: hidden;
+  border-radius: 20px;
+
+  img {
+    position: absolute;
+    max-height: 400px !important;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding-top: 75%; // 4:3 aspect ratio
+    overflow: hidden;
+    border-radius: 20px;
+
+    img {
+      position: absolute;
+      max-height: 400px !important;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    @media (max-width: 768px) {
+      border-radius: 12px;
+    }
+
+    @media (max-width: 480px) {
+      border-radius: 8px;
+    }
+  }
+}
+
+// POPUP STYLES
+
+.drDetailPopup {
+  max-height: 90vh; // prevent overflow
+  overflow: hidden;
+
+  .modal-content {
+    border-radius: 12px;
+    overflow: hidden;
+
+    @media (max-width:550px) {
+      padding: 15px !important;
+    }
+  }
+
+  .drDetailCard {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    max-height: 78vh;
+    overflow-y: auto;
+  }
+
+  .drDetailPopupImg,
+  .drDetailPopupdetailDiv {
+    height: auto;
+    flex: 0 0 50%;
+    width: 50%;
+  }
+
+  .drDetail {
+    max-height: 42vh;
+    overflow-y: auto;
+  }
+
+  .drDetail ::-webkit-scrollbar {
+    width: 2px !important;
+  }
+
+  .drDetail::-webkit-scrollbar-track {
+    background: yellow !important;
+  }
+
+  // ::-webkit-scrollbar-thumb {
+  //   background-color: red !important;
+  //   border-radius: 4px;
+  // }
+
+  // ::-webkit-scrollbar-thumb:hover {
+  //   background-color: #555;
+  // }
+
+  @media screen and (max-width: 768px) {
+    .drDetailCard {
+      flex-direction: column;
+    }
+
+    .drDetailPopupImg {
+      max-width: 100%;
+      width: 100%;
+      max-height: 392px;
+    }
+
+    .drDetailPopupdetailDiv {
+      padding-left: 0px;
+      margin-top: 20px;
+      width: 100%;
+
+      h4 {
+        font-size: 20px !important;
+      }
+
+      h6 {
+        font-size: 16px;
+      }
+    }
+
+
+
+  }
+
+  .drDetail {
+    max-height: unset;
+    overflow-y: unset;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .drDetailModalContent {
+    padding: 15px;
+  }
+
+
+}
+
+@media screen and (max-width: 450px) {
+  .drDetailPopupImg {
+    max-height: 280px;
+
+  }
+}

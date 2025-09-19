@@ -1,0 +1,1 @@
+export { default as EyeWearPage } from './eye-wear';

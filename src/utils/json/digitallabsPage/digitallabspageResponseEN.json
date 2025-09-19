@@ -1,0 +1,227 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 45,
+      "key": "About.OnSiteDigitalLabs.Heading",
+      "value": "On-Site Digital Labs",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 47,
+      "key": "About.OnSiteDigitalLabs.Description",
+      "value": "At Eye Center Boutique, we’re proud to have the most advanced digital labs in Puerto Rico—right inside our offices. This means we can make your glasses quickly and with precision, without having to send them out. Our technology allows us to create all types of lenses, including digital progressives, prescription sunglasses, and lenses with anti-reflective or blue light protection. Because everything is done in-house, we’re able to offer same-day or next-day service in many cases—something most other opticals can’t match.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 213,
+      "key": "DigitalLabs.Main.Heading1",
+      "value": "Precision Crafted Lenses – Made Just for You",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 215,
+      "key": "DigitalLabs.Main.Description",
+      "value": "Custom-crafted digital lenses, designed for clarity and comfort.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 217,
+      "key": "DigitalLabs.Section1.Heading",
+      "value": "See the Difference with Our State-of-the-Art Digital Lens Technology",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 219,
+      "key": "DigitalLabs.MadeInOurLabs.Heading",
+      "value": "Fast, High-Quality Lenses-Made Right in Our Labs",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 221,
+      "key": "DigitalLabs.MadeInOurLabs.Description",
+      "value": "At Eye Center Boutique, every location has its own in-house digital lab—so your lenses are made right here, without delays. Our advanced technology allows us to create prescription lenses quickly and accurately, with strict quality control. Single vision lenses can be ready in as little as one hour, and most other lenses are available the same day. That means you get fast service, exceptional quality, and no waiting.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 223,
+      "key": "DigitalLabs.CustomLenses.Heading",
+      "value": "See the Difference – Custom Digital Lenses",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 225,
+      "key": "DigitalLabs.CustomLenses.Description",
+      "value": "Unlike traditional lenses that offer only one point of focus, our digital lenses are crafted with advanced technology to provide multiple focal points—giving you sharper, more comfortable vision at all distances. Each pair is personalized to your exact prescription and visual habits, making your everyday vision feel more natural and effortless.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 227,
+      "key": "DigitalLabs.LensEnhancement.Heading",
+      "value": " Lens Enhancements for Maximum Performance",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 229,
+      "key": "DigitalLabs.LensEnhancement.Card1.Heading",
+      "value": "Scratch Resistant with UV Protection",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 231,
+      "key": "DigitalLabs.LensEnhancement.Card1.Point1",
+      "value": "Built-in UV protection shields your eyes from harmful sun exposure",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 233,
+      "key": "DigitalLabs.LensEnhancement.Card1.Point2",
+      "value": "Every lens comes with a scratch-resistant coating to minimize wear and tear.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 235,
+      "key": "DigitalLabs.LensEnhancement.Card2.Heading",
+      "value": "Anti-Reflective Treatment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 237,
+      "key": "DigitalLabs.LensEnhancement.Card2.Point1",
+      "value": "Eliminates unwanted glare and reflections.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 239,
+      "key": "DigitalLabs.LensEnhancement.Card2.Point2",
+      "value": "Enhances light transmission by 99%, reducing eye strain.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 241,
+      "key": "DigitalLabs.LensEnhancement.Card2.Point3",
+      "value": "Hydrophobic & Oleophobic Finish repels water, fingerprints, smudges, and oils.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 243,
+      "key": "DigitalLabs.LensEnhancement.Card3.Heading",
+      "value": "Sunglass Options",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 245,
+      "key": "DigitalLabs.LensEnhancement.Card3.Point1",
+      "value": "Mirror coating available in 8 colors that reflects glares and protects your eyes from UV rays.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 247,
+      "key": "DigitalLabs.LensEnhancement.Card3.Point2",
+      "value": "Polarized lenses blocks harsh glare, enhancing visilibity and reducing eye strain.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 249,
+      "key": "DigitalLabs.AppointmentCard.Heading",
+      "value": "See the Difference-Experience Custom Lenses Today",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 251,
+      "key": "DigitalLabs.AppointmentCard.Button",
+      "value": "Schedule an Appointment",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}

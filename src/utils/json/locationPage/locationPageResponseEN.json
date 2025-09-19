@@ -1,0 +1,27 @@
+{
+  "status": "Success",
+  "statusCode": 200,
+  "message": "Settings retrieved successfully",
+  "data": [
+    {
+      "id": 299,
+      "key": "Locations.Main.Heading1",
+      "value": "Our Offices",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    },
+    {
+      "id": 301,
+      "key": "Locations.Main.Description",
+      "value": "Exceptional vision care starts here. Book an appointment at your nearest office.",
+      "language": "en",
+      "publish": true,
+      "pageIndex": 0,
+      "pageSize": 10,
+      "totalRecord": 0
+    }
+  ]
+}
